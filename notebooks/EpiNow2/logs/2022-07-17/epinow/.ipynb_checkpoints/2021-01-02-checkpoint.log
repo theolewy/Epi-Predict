@@ -1,0 +1,1768 @@
+INFO [2022-07-17 18:29:11] Initialising estimates for: Lincolnshire
+DEBUG [2022-07-17 18:29:11] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-17 18:29:11] Lincolnshire: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-17 18:29:11] Lincolnshire: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-17 18:39:26] Lincolnshire (chain: 1): There were 1 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+WARN [2022-07-17 18:39:26] Lincolnshire (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+WARN [2022-07-17 18:39:26] Lincolnshire (chain: 1): The largest R-hat is 1.68, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-17 18:39:27] Lincolnshire (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-17 18:39:28] Lincolnshire (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-17 18:39:36] Completed estimates for: Lincolnshire
+INFO [2022-07-17 18:39:36] Initialising estimates for: Greater Manchester South West
+DEBUG [2022-07-17 18:39:36] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-17 18:39:36] Greater Manchester South West: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-17 18:39:36] Greater Manchester South West: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-17 18:48:24] Greater Manchester South West (chain: 1): The largest R-hat is 1.32, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-17 18:48:24] Greater Manchester South West (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-17 18:48:25] Greater Manchester South West (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-17 18:48:29] Completed estimates for: Greater Manchester South West
+INFO [2022-07-17 18:48:30] Initialising estimates for: Redbridge and Waltham Forest
+DEBUG [2022-07-17 18:48:30] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-17 18:48:30] Redbridge and Waltham Forest: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-17 18:48:30] Redbridge and Waltham Forest: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-17 18:58:38] Redbridge and Waltham Forest (chain: 1): There were 1 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+WARN [2022-07-17 18:58:38] Redbridge and Waltham Forest (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+WARN [2022-07-17 18:58:39] Redbridge and Waltham Forest (chain: 1): The largest R-hat is 1.35, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-17 18:58:39] Redbridge and Waltham Forest (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-17 18:58:41] Redbridge and Waltham Forest (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-17 18:58:45] Completed estimates for: Redbridge and Waltham Forest
+INFO [2022-07-17 18:58:45] Initialising estimates for: Enfield
+DEBUG [2022-07-17 18:58:45] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-17 18:58:45] Enfield: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-17 18:58:45] Enfield: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-17 19:09:07] Enfield (chain: 1): There were 1 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+WARN [2022-07-17 19:09:07] Enfield (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+WARN [2022-07-17 19:09:08] Enfield (chain: 1): The largest R-hat is 1.51, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-17 19:09:09] Enfield (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-17 19:09:10] Enfield (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-17 19:09:14] Completed estimates for: Enfield
+INFO [2022-07-17 19:09:14] Initialising estimates for: Buckinghamshire CC
+DEBUG [2022-07-17 19:09:14] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-17 19:09:14] Buckinghamshire CC: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-17 19:09:14] Buckinghamshire CC: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-17 19:15:43] Buckinghamshire CC (chain: 1): The largest R-hat is 1.39, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-17 19:15:44] Buckinghamshire CC (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-17 19:15:45] Buckinghamshire CC (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-17 19:15:49] Completed estimates for: Buckinghamshire CC
+INFO [2022-07-17 19:15:49] Initialising estimates for: Portsmouth
+DEBUG [2022-07-17 19:15:49] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-17 19:15:49] Portsmouth: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-17 19:15:49] Portsmouth: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 182 time steps of which 20 are a forecast
+WARN [2022-07-17 19:23:06] Portsmouth (chain: 1): There were 1 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+WARN [2022-07-17 19:23:06] Portsmouth (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+WARN [2022-07-17 19:23:07] Portsmouth (chain: 1): The largest R-hat is 1.4, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-17 19:23:07] Portsmouth (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-17 19:23:09] Portsmouth (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-17 19:23:13] Completed estimates for: Portsmouth
+INFO [2022-07-17 19:23:13] Initialising estimates for: Southampton
+DEBUG [2022-07-17 19:23:13] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-17 19:23:13] Southampton: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-17 19:23:13] Southampton: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 180 time steps of which 20 are a forecast
+WARN [2022-07-17 19:29:58] Southampton (chain: 1): The largest R-hat is 1.41, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-17 19:29:58] Southampton (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-17 19:29:59] Southampton (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-17 19:30:04] Completed estimates for: Southampton
+INFO [2022-07-17 19:30:04] Initialising estimates for: Brighton and Hove
+DEBUG [2022-07-17 19:30:04] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-17 19:30:04] Brighton and Hove: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-17 19:30:04] Brighton and Hove: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 182 time steps of which 20 are a forecast
+WARN [2022-07-17 19:40:33] Brighton and Hove (chain: 1): There were 4 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+WARN [2022-07-17 19:40:33] Brighton and Hove (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+WARN [2022-07-17 19:40:34] Brighton and Hove (chain: 1): The largest R-hat is 1.57, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-17 19:40:34] Brighton and Hove (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-17 19:40:36] Brighton and Hove (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-17 19:40:40] Completed estimates for: Brighton and Hove
+INFO [2022-07-17 19:40:40] Initialising estimates for: Coventry
+DEBUG [2022-07-17 19:40:40] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-17 19:40:40] Coventry: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-17 19:40:40] Coventry: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-17 19:48:45] Coventry (chain: 1): The largest R-hat is 1.47, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-17 19:48:45] Coventry (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-17 19:48:46] Coventry (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-17 19:48:51] Completed estimates for: Coventry
+INFO [2022-07-17 19:48:51] Initialising estimates for: Walsall
+DEBUG [2022-07-17 19:48:51] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-17 19:48:51] Walsall: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-17 19:48:51] Walsall: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-17 19:59:24] Walsall (chain: 1): The largest R-hat is 1.52, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-17 19:59:24] Walsall (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-17 19:59:25] Walsall (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-17 19:59:30] Completed estimates for: Walsall
+INFO [2022-07-17 19:59:30] Initialising estimates for: North Yorkshire CC
+DEBUG [2022-07-17 19:59:30] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-17 19:59:30] North Yorkshire CC: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-17 19:59:30] North Yorkshire CC: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-17 20:11:17] North Yorkshire CC (chain: 1): There were 2 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+WARN [2022-07-17 20:11:17] North Yorkshire CC (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+WARN [2022-07-17 20:11:17] North Yorkshire CC (chain: 1): The largest R-hat is 1.5, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-17 20:11:18] North Yorkshire CC (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-17 20:11:19] North Yorkshire CC (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-17 20:11:24] Completed estimates for: North Yorkshire CC
+INFO [2022-07-17 20:11:24] Initialising estimates for: Essex Haven Gateway
+DEBUG [2022-07-17 20:11:24] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-17 20:11:24] Essex Haven Gateway: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-17 20:11:24] Essex Haven Gateway: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 182 time steps of which 20 are a forecast
+WARN [2022-07-17 20:31:05] Essex Haven Gateway (chain: 1): The largest R-hat is 1.42, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-17 20:31:06] Essex Haven Gateway (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-17 20:31:12] Essex Haven Gateway (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-17 20:31:30] Completed estimates for: Essex Haven Gateway
+INFO [2022-07-17 20:31:30] Initialising estimates for: Southend-on-Sea
+DEBUG [2022-07-17 20:31:30] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-17 20:31:30] Southend-on-Sea: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-17 20:31:30] Southend-on-Sea: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 182 time steps of which 20 are a forecast
+WARN [2022-07-17 20:50:53] Southend-on-Sea (chain: 1): The largest R-hat is 1.43, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-17 20:50:55] Southend-on-Sea (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-17 20:51:00] Southend-on-Sea (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-17 20:51:18] Completed estimates for: Southend-on-Sea
+INFO [2022-07-17 20:51:18] Initialising estimates for: Gloucestershire
+DEBUG [2022-07-17 20:51:18] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-17 20:51:18] Gloucestershire: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-17 20:51:18] Gloucestershire: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 182 time steps of which 20 are a forecast
+WARN [2022-07-17 21:30:53] Gloucestershire (chain: 1): The largest R-hat is 1.36, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-17 21:30:55] Gloucestershire (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-17 21:31:00] Gloucestershire (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-17 21:31:17] Completed estimates for: Gloucestershire
+INFO [2022-07-17 21:31:17] Initialising estimates for: East Derbyshire
+DEBUG [2022-07-17 21:31:17] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-17 21:31:17] East Derbyshire: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-17 21:31:18] East Derbyshire: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-17 22:23:44] East Derbyshire (chain: 1): The largest R-hat is 1.38, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-17 22:23:45] East Derbyshire (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-17 22:23:52] East Derbyshire (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-17 22:24:09] Completed estimates for: East Derbyshire
+INFO [2022-07-17 22:24:09] Initialising estimates for: Wien
+DEBUG [2022-07-17 22:24:09] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-17 22:24:09] Wien: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-17 22:24:09] Wien: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-17 23:00:07] Wien (chain: 1): The largest R-hat is 1.48, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-17 23:00:09] Wien (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-17 23:00:15] Wien (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-17 23:00:36] Completed estimates for: Wien
+INFO [2022-07-17 23:00:36] Initialising estimates for: Burgenland
+DEBUG [2022-07-17 23:00:36] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-17 23:00:36] Burgenland: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-17 23:00:37] Burgenland: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-17 23:25:58] Burgenland (chain: 1): The largest R-hat is 1.35, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-17 23:26:00] Burgenland (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-17 23:26:06] Burgenland (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-17 23:26:26] Completed estimates for: Burgenland
+INFO [2022-07-17 23:26:26] Initialising estimates for: Steiermark
+DEBUG [2022-07-17 23:26:26] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-17 23:26:26] Steiermark: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-17 23:26:26] Steiermark: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-17 23:58:14] Steiermark (chain: 1): The largest R-hat is 1.46, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-17 23:58:16] Steiermark (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-17 23:58:22] Steiermark (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-17 23:58:40] Completed estimates for: Steiermark
+INFO [2022-07-17 23:58:40] Initialising estimates for: Oberösterreich
+DEBUG [2022-07-17 23:58:40] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-17 23:58:40] Oberösterreich: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-17 23:58:40] Oberösterreich: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-18 00:36:53] Oberösterreich (chain: 1): The largest R-hat is 1.41, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 00:36:55] Oberösterreich (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 00:37:00] Oberösterreich (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 00:37:15] Completed estimates for: Oberösterreich
+INFO [2022-07-18 00:37:15] Initialising estimates for: Nieder­österreich
+DEBUG [2022-07-18 00:37:15] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 00:37:16] Nieder­österreich: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 00:37:16] Nieder­österreich: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-18 01:16:56] Nieder­österreich (chain: 1): The largest R-hat is 1.54, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 01:16:57] Nieder­österreich (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 01:17:04] Nieder­österreich (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 01:17:21] Completed estimates for: Nieder­österreich
+INFO [2022-07-18 01:17:21] Initialising estimates for: Voralberg
+DEBUG [2022-07-18 01:17:22] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 01:17:22] Voralberg: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 01:17:22] Voralberg: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-18 01:47:30] Voralberg (chain: 1): There were 1 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+WARN [2022-07-18 01:47:30] Voralberg (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+WARN [2022-07-18 01:47:32] Voralberg (chain: 1): The largest R-hat is 1.48, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 01:47:34] Voralberg (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 01:47:39] Voralberg (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 01:47:56] Completed estimates for: Voralberg
+INFO [2022-07-18 01:47:56] Initialising estimates for: Tirol
+DEBUG [2022-07-18 01:47:56] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 01:47:56] Tirol: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 01:47:56] Tirol: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-18 02:24:27] Tirol (chain: 1): The largest R-hat is 1.28, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 02:24:29] Tirol (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 02:24:36] Tirol (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 02:24:52] Completed estimates for: Tirol
+INFO [2022-07-18 02:24:52] Initialising estimates for: Karnten/Carinthia
+DEBUG [2022-07-18 02:24:52] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 02:24:52] Karnten/Carinthia: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 02:24:52] Karnten/Carinthia: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-18 02:58:09] Karnten/Carinthia (chain: 1): There were 1 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+WARN [2022-07-18 02:58:09] Karnten/Carinthia (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+WARN [2022-07-18 02:58:11] Karnten/Carinthia (chain: 1): The largest R-hat is 1.33, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 02:58:13] Karnten/Carinthia (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 02:58:17] Karnten/Carinthia (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 02:58:32] Completed estimates for: Karnten/Carinthia
+INFO [2022-07-18 02:58:33] Initialising estimates for: Salzburg
+DEBUG [2022-07-18 02:58:33] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 02:58:33] Salzburg: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 02:58:33] Salzburg: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-18 03:25:17] Salzburg (chain: 1): There were 3 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+WARN [2022-07-18 03:25:17] Salzburg (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+WARN [2022-07-18 03:25:20] Salzburg (chain: 1): The largest R-hat is 1.45, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 03:25:22] Salzburg (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 03:25:27] Salzburg (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 03:25:44] Completed estimates for: Salzburg
+INFO [2022-07-18 03:25:44] Initialising estimates for: Nürnberg
+DEBUG [2022-07-18 03:25:44] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 03:25:44] Nürnberg: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 03:25:44] Nürnberg: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 181 time steps of which 20 are a forecast
+WARN [2022-07-18 03:37:50] Nürnberg (chain: 1): The largest R-hat is 1.43, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 03:37:52] Nürnberg (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 03:37:58] Nürnberg (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 03:38:14] Completed estimates for: Nürnberg
+INFO [2022-07-18 03:38:14] Initialising estimates for: LK Aschaffenburg
+DEBUG [2022-07-18 03:38:14] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 03:38:14] LK Aschaffenburg: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 03:38:14] LK Aschaffenburg: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-18 04:00:19] LK Aschaffenburg (chain: 1): The largest R-hat is 1.37, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 04:00:21] LK Aschaffenburg (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 04:00:27] LK Aschaffenburg (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 04:00:43] Completed estimates for: LK Aschaffenburg
+INFO [2022-07-18 04:00:43] Initialising estimates for: Fürth
+DEBUG [2022-07-18 04:00:44] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 04:00:44] Fürth: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 04:00:44] Fürth: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 180 time steps of which 20 are a forecast
+WARN [2022-07-18 04:17:54] Fürth (chain: 1): The largest R-hat is 1.33, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 04:17:55] Fürth (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 04:18:01] Fürth (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 04:18:17] Completed estimates for: Fürth
+INFO [2022-07-18 04:18:17] Initialising estimates for: Landsberg am Lech
+DEBUG [2022-07-18 04:18:17] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 04:18:18] Landsberg am Lech: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 04:18:18] Landsberg am Lech: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 174 time steps of which 20 are a forecast
+WARN [2022-07-18 04:36:01] Landsberg am Lech (chain: 1): The largest R-hat is 1.42, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 04:36:03] Landsberg am Lech (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 04:36:09] Landsberg am Lech (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 04:36:24] Completed estimates for: Landsberg am Lech
+INFO [2022-07-18 04:36:24] Initialising estimates for: LK Donau-Ries
+DEBUG [2022-07-18 04:36:24] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 04:36:24] LK Donau-Ries: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 04:36:24] LK Donau-Ries: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 179 time steps of which 20 are a forecast
+WARN [2022-07-18 04:52:41] LK Donau-Ries (chain: 1): The largest R-hat is 1.4, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 04:52:44] LK Donau-Ries (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 04:52:49] LK Donau-Ries (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 04:53:07] Completed estimates for: LK Donau-Ries
+INFO [2022-07-18 04:53:07] Initialising estimates for: Minden-Lübbecke
+DEBUG [2022-07-18 04:53:07] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 04:53:07] Minden-Lübbecke: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 04:53:07] Minden-Lübbecke: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-18 05:29:22] Minden-Lübbecke (chain: 1): There were 2 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+WARN [2022-07-18 05:29:22] Minden-Lübbecke (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+WARN [2022-07-18 05:29:26] Minden-Lübbecke (chain: 1): The largest R-hat is 1.23, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 05:29:28] Minden-Lübbecke (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 05:29:33] Minden-Lübbecke (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 05:29:51] Completed estimates for: Minden-Lübbecke
+INFO [2022-07-18 05:29:51] Initialising estimates for: Mönchengladbach
+DEBUG [2022-07-18 05:29:51] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 05:29:51] Mönchengladbach: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 05:29:51] Mönchengladbach: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-18 05:48:05] Mönchengladbach (chain: 1): There were 1 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+WARN [2022-07-18 05:48:05] Mönchengladbach (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+WARN [2022-07-18 05:48:09] Mönchengladbach (chain: 1): The largest R-hat is 1.34, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 05:48:10] Mönchengladbach (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 05:48:16] Mönchengladbach (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 05:48:33] Completed estimates for: Mönchengladbach
+INFO [2022-07-18 05:48:33] Initialising estimates for: Münster
+DEBUG [2022-07-18 05:48:33] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 05:48:33] Münster: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 05:48:33] Münster: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-18 06:11:58] Münster (chain: 1): The largest R-hat is 1.48, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 06:11:59] Münster (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 06:12:06] Münster (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 06:12:24] Completed estimates for: Münster
+INFO [2022-07-18 06:12:24] Initialising estimates for: Rhein-Kreis Neuss
+DEBUG [2022-07-18 06:12:24] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 06:12:24] Rhein-Kreis Neuss: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 06:12:25] Rhein-Kreis Neuss: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-18 06:33:22] Rhein-Kreis Neuss (chain: 1): The largest R-hat is 1.3, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 06:33:23] Rhein-Kreis Neuss (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 06:33:28] Rhein-Kreis Neuss (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 06:33:44] Completed estimates for: Rhein-Kreis Neuss
+INFO [2022-07-18 06:33:44] Initialising estimates for: LK Ennepe-Ruhr-Kreis
+DEBUG [2022-07-18 06:33:44] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 06:33:44] LK Ennepe-Ruhr-Kreis: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 06:33:44] LK Ennepe-Ruhr-Kreis: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-18 06:58:22] LK Ennepe-Ruhr-Kreis (chain: 1): The largest R-hat is 1.43, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 06:58:23] LK Ennepe-Ruhr-Kreis (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 06:58:29] LK Ennepe-Ruhr-Kreis (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 06:58:46] Completed estimates for: LK Ennepe-Ruhr-Kreis
+INFO [2022-07-18 06:58:46] Initialising estimates for: LK Rems-Murr-Kreis
+DEBUG [2022-07-18 06:58:46] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 06:58:46] LK Rems-Murr-Kreis: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 06:58:46] LK Rems-Murr-Kreis: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-18 07:20:06] LK Rems-Murr-Kreis (chain: 1): The largest R-hat is 1.47, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 07:20:07] LK Rems-Murr-Kreis (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 07:20:13] LK Rems-Murr-Kreis (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 07:20:32] Completed estimates for: LK Rems-Murr-Kreis
+INFO [2022-07-18 07:20:33] Initialising estimates for: LK Breisgau-Hochschwarzwald
+DEBUG [2022-07-18 07:20:33] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 07:20:33] LK Breisgau-Hochschwarzwald: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 07:20:33] LK Breisgau-Hochschwarzwald: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 181 time steps of which 20 are a forecast
+WARN [2022-07-18 07:43:45] LK Breisgau-Hochschwarzwald (chain: 1): The largest R-hat is 1.43, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 07:43:47] LK Breisgau-Hochschwarzwald (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 07:43:51] LK Breisgau-Hochschwarzwald (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 07:44:09] Completed estimates for: LK Breisgau-Hochschwarzwald
+INFO [2022-07-18 07:44:09] Initialising estimates for: LK Enzkreis
+DEBUG [2022-07-18 07:44:09] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 07:44:09] LK Enzkreis: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 07:44:10] LK Enzkreis: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 181 time steps of which 20 are a forecast
+WARN [2022-07-18 08:09:19] LK Enzkreis (chain: 1): The largest R-hat is 1.38, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 08:09:21] LK Enzkreis (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 08:09:26] LK Enzkreis (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 08:09:44] Completed estimates for: LK Enzkreis
+INFO [2022-07-18 08:09:44] Initialising estimates for: LK Hildesheim
+DEBUG [2022-07-18 08:09:44] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 08:09:45] LK Hildesheim: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 08:09:45] LK Hildesheim: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-18 08:26:14] LK Hildesheim (chain: 1): The largest R-hat is 1.51, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 08:26:17] LK Hildesheim (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 08:26:22] LK Hildesheim (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 08:26:39] Completed estimates for: LK Hildesheim
+INFO [2022-07-18 08:26:39] Initialising estimates for: LK Gifhorn
+DEBUG [2022-07-18 08:26:39] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 08:26:40] LK Gifhorn: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 08:26:40] LK Gifhorn: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 175 time steps of which 20 are a forecast
+WARN [2022-07-18 08:55:49] LK Gifhorn (chain: 1): The largest R-hat is 1.34, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 08:55:53] LK Gifhorn (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 08:56:04] LK Gifhorn (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 08:56:38] Completed estimates for: LK Gifhorn
+INFO [2022-07-18 08:56:38] Initialising estimates for: Abruzzo
+DEBUG [2022-07-18 08:56:38] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 08:56:38] Abruzzo: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 08:56:38] Abruzzo: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-18 09:31:04] Abruzzo (chain: 1): The largest R-hat is 1.5, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 09:31:08] Abruzzo (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 09:31:18] Abruzzo (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 09:32:00] Completed estimates for: Abruzzo
+INFO [2022-07-18 09:32:00] Initialising estimates for: Aosta Valley
+DEBUG [2022-07-18 09:32:00] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 09:32:00] Aosta Valley: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 09:32:00] Aosta Valley: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 182 time steps of which 20 are a forecast
+WARN [2022-07-18 10:05:58] Aosta Valley (chain: 1): The largest R-hat is 1.34, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 10:06:02] Aosta Valley (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 10:06:13] Aosta Valley (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 10:06:47] Completed estimates for: Aosta Valley
+INFO [2022-07-18 10:06:47] Initialising estimates for: Apulia (AKA Puglia)
+DEBUG [2022-07-18 10:06:47] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 10:06:47] Apulia (AKA Puglia): Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 10:06:48] Apulia (AKA Puglia): Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-18 12:00:51] Apulia (AKA Puglia) (chain: 1): The largest R-hat is 1.36, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 12:00:53] Apulia (AKA Puglia) (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 12:01:06] Apulia (AKA Puglia) (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 12:01:37] Completed estimates for: Apulia (AKA Puglia)
+INFO [2022-07-18 12:01:37] Initialising estimates for: Basilicata
+DEBUG [2022-07-18 12:01:37] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 12:01:37] Basilicata: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 12:01:37] Basilicata: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 182 time steps of which 20 are a forecast
+WARN [2022-07-18 12:34:58] Basilicata (chain: 1): The largest R-hat is 1.36, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 12:35:01] Basilicata (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 12:35:12] Basilicata (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 12:35:44] Completed estimates for: Basilicata
+INFO [2022-07-18 12:35:45] Initialising estimates for: Calabria
+DEBUG [2022-07-18 12:35:45] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 12:35:45] Calabria: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 12:35:45] Calabria: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-18 13:38:54] Calabria (chain: 1): The largest R-hat is 1.33, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 13:38:58] Calabria (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 13:39:06] Calabria (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 13:39:35] Completed estimates for: Calabria
+INFO [2022-07-18 13:39:35] Initialising estimates for: Campania
+DEBUG [2022-07-18 13:39:35] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 13:39:35] Campania: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 13:39:35] Campania: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-18 14:11:27] Campania (chain: 1): The largest R-hat is 1.37, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 14:11:29] Campania (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 14:11:34] Campania (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 14:11:56] Completed estimates for: Campania
+INFO [2022-07-18 14:11:56] Initialising estimates for: Emilia-Romagna
+DEBUG [2022-07-18 14:11:56] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 14:11:56] Emilia-Romagna: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 14:11:57] Emilia-Romagna: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-18 14:44:58] Emilia-Romagna (chain: 1): There were 2 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+WARN [2022-07-18 14:44:58] Emilia-Romagna (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+WARN [2022-07-18 14:45:00] Emilia-Romagna (chain: 1): The largest R-hat is 1.54, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 14:45:02] Emilia-Romagna (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 14:45:07] Emilia-Romagna (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 14:45:23] Completed estimates for: Emilia-Romagna
+INFO [2022-07-18 14:45:23] Initialising estimates for: Friuli-Venezia Giulia
+DEBUG [2022-07-18 14:45:24] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 14:45:24] Friuli-Venezia Giulia: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 14:45:24] Friuli-Venezia Giulia: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-18 14:59:13] Friuli-Venezia Giulia (chain: 1): The largest R-hat is 1.27, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 14:59:13] Friuli-Venezia Giulia (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 14:59:15] Friuli-Venezia Giulia (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 14:59:22] Completed estimates for: Friuli-Venezia Giulia
+INFO [2022-07-18 14:59:22] Initialising estimates for: Lazio
+DEBUG [2022-07-18 14:59:22] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 14:59:22] Lazio: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 14:59:22] Lazio: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-18 15:19:24] Lazio (chain: 1): The largest R-hat is 1.28, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 15:19:25] Lazio (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 15:19:27] Lazio (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 15:19:33] Completed estimates for: Lazio
+INFO [2022-07-18 15:19:33] Initialising estimates for: Liguria
+DEBUG [2022-07-18 15:19:33] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 15:19:33] Liguria: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 15:19:33] Liguria: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-18 15:41:39] Liguria (chain: 1): There were 1 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+WARN [2022-07-18 15:41:40] Liguria (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+WARN [2022-07-18 15:41:42] Liguria (chain: 1): The largest R-hat is 1.46, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 15:41:43] Liguria (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 15:41:46] Liguria (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 15:41:56] Completed estimates for: Liguria
+INFO [2022-07-18 15:41:56] Initialising estimates for: Lombardy
+DEBUG [2022-07-18 15:41:56] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 15:41:56] Lombardy: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 15:41:56] Lombardy: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-18 15:58:11] Lombardy (chain: 1): The largest R-hat is 1.29, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 15:58:12] Lombardy (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 15:58:14] Lombardy (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 15:58:21] Completed estimates for: Lombardy
+INFO [2022-07-18 15:58:21] Initialising estimates for: Marche
+DEBUG [2022-07-18 15:58:21] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 15:58:21] Marche: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 15:58:21] Marche: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-18 16:18:53] Marche (chain: 1): The largest R-hat is 1.44, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 16:18:53] Marche (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 16:18:54] Marche (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 16:18:58] Completed estimates for: Marche
+INFO [2022-07-18 16:18:58] Initialising estimates for: Molise
+DEBUG [2022-07-18 16:18:58] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 16:18:58] Molise: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 16:18:58] Molise: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-18 16:23:06] Molise (chain: 1): The largest R-hat is 1.39, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 16:23:07] Molise (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 16:23:08] Molise (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 16:23:12] Completed estimates for: Molise
+INFO [2022-07-18 16:23:12] Initialising estimates for: Piedmont
+DEBUG [2022-07-18 16:23:12] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 16:23:12] Piedmont: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 16:23:12] Piedmont: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-18 16:49:24] Piedmont (chain: 1): There were 1 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+WARN [2022-07-18 16:49:24] Piedmont (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+WARN [2022-07-18 16:49:27] Piedmont (chain: 1): The largest R-hat is 1.36, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 16:49:29] Piedmont (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 16:49:34] Piedmont (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 16:49:51] Completed estimates for: Piedmont
+INFO [2022-07-18 16:49:51] Initialising estimates for: Sardinia
+DEBUG [2022-07-18 16:49:51] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 16:49:51] Sardinia: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 16:49:51] Sardinia: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-18 17:09:52] Sardinia (chain: 1): The largest R-hat is 1.37, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 17:09:54] Sardinia (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 17:09:58] Sardinia (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 17:10:17] Completed estimates for: Sardinia
+INFO [2022-07-18 17:10:17] Initialising estimates for: Sicily
+DEBUG [2022-07-18 17:10:17] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 17:10:17] Sicily: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 17:10:17] Sicily: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-18 17:45:55] Sicily (chain: 1): The largest R-hat is 1.38, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 17:45:57] Sicily (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 17:46:03] Sicily (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 17:46:19] Completed estimates for: Sicily
+INFO [2022-07-18 17:46:19] Initialising estimates for: Trentino (aka Trento)
+DEBUG [2022-07-18 17:46:19] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 17:46:19] Trentino (aka Trento): Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 17:46:20] Trentino (aka Trento): Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 182 time steps of which 20 are a forecast
+WARN [2022-07-18 18:13:05] Trentino (aka Trento) (chain: 1): The largest R-hat is 1.35, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 18:13:07] Trentino (aka Trento) (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 18:13:14] Trentino (aka Trento) (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 18:13:37] Completed estimates for: Trentino (aka Trento)
+INFO [2022-07-18 18:13:37] Initialising estimates for: South Tyrol (aka Bolzano aka Alto-Adige)
+DEBUG [2022-07-18 18:13:37] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 18:13:37] South Tyrol (aka Bolzano aka Alto-Adige): Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 18:13:37] South Tyrol (aka Bolzano aka Alto-Adige): Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-18 18:43:59] South Tyrol (aka Bolzano aka Alto-Adige) (chain: 1): The largest R-hat is 1.5, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 18:44:02] South Tyrol (aka Bolzano aka Alto-Adige) (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 18:44:10] South Tyrol (aka Bolzano aka Alto-Adige) (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 18:44:35] Completed estimates for: South Tyrol (aka Bolzano aka Alto-Adige)
+INFO [2022-07-18 18:44:35] Initialising estimates for: Tuscania
+DEBUG [2022-07-18 18:44:35] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 18:44:35] Tuscania: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 18:44:36] Tuscania: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-18 19:26:03] Tuscania (chain: 1): The largest R-hat is 1.34, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 19:26:05] Tuscania (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 19:26:11] Tuscania (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 19:26:32] Completed estimates for: Tuscania
+INFO [2022-07-18 19:26:32] Initialising estimates for: Umbria
+DEBUG [2022-07-18 19:26:32] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 19:26:32] Umbria: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 19:26:33] Umbria: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-18 19:55:46] Umbria (chain: 1): The largest R-hat is 1.37, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 19:55:48] Umbria (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 19:55:53] Umbria (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 19:56:14] Completed estimates for: Umbria
+INFO [2022-07-18 19:56:14] Initialising estimates for: Veneto
+DEBUG [2022-07-18 19:56:14] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 19:56:14] Veneto: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 19:56:14] Veneto: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-18 20:40:57] Veneto (chain: 1): The largest R-hat is 1.33, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 20:40:58] Veneto (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 20:41:04] Veneto (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 20:41:23] Completed estimates for: Veneto
+INFO [2022-07-18 20:41:23] Initialising estimates for: Ústí nad Labem
+DEBUG [2022-07-18 20:41:23] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 20:41:23] Ústí nad Labem: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 20:41:23] Ústí nad Labem: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-18 21:07:44] Ústí nad Labem (chain: 1): There were 3 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+WARN [2022-07-18 21:07:44] Ústí nad Labem (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+WARN [2022-07-18 21:07:46] Ústí nad Labem (chain: 1): The largest R-hat is 1.38, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 21:07:48] Ústí nad Labem (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 21:07:51] Ústí nad Labem (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 21:08:04] Completed estimates for: Ústí nad Labem
+INFO [2022-07-18 21:08:04] Initialising estimates for: Prague
+DEBUG [2022-07-18 21:08:04] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 21:08:04] Prague: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 21:08:04] Prague: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-18 21:35:55] Prague (chain: 1): There were 3 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+WARN [2022-07-18 21:35:55] Prague (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+WARN [2022-07-18 21:35:58] Prague (chain: 1): The largest R-hat is 1.51, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 21:35:59] Prague (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 21:36:03] Prague (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 21:36:17] Completed estimates for: Prague
+INFO [2022-07-18 21:36:17] Initialising estimates for: Moravian-Silesian
+DEBUG [2022-07-18 21:36:17] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 21:36:17] Moravian-Silesian: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 21:36:17] Moravian-Silesian: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-18 21:59:11] Moravian-Silesian (chain: 1): The largest R-hat is 1.44, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 21:59:13] Moravian-Silesian (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 21:59:17] Moravian-Silesian (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 21:59:28] Completed estimates for: Moravian-Silesian
+INFO [2022-07-18 21:59:28] Initialising estimates for: Central Bohemian
+DEBUG [2022-07-18 21:59:28] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 21:59:29] Central Bohemian: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 21:59:29] Central Bohemian: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-18 22:19:12] Central Bohemian (chain: 1): There were 3 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+WARN [2022-07-18 22:19:12] Central Bohemian (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+WARN [2022-07-18 22:19:15] Central Bohemian (chain: 1): The largest R-hat is 1.28, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 22:19:16] Central Bohemian (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 22:19:19] Central Bohemian (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 22:19:33] Completed estimates for: Central Bohemian
+INFO [2022-07-18 22:19:33] Initialising estimates for: South Bohemian
+DEBUG [2022-07-18 22:19:33] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 22:19:33] South Bohemian: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 22:19:33] South Bohemian: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-18 22:34:40] South Bohemian (chain: 1): The largest R-hat is 1.43, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 22:34:41] South Bohemian (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 22:34:46] South Bohemian (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 22:34:59] Completed estimates for: South Bohemian
+INFO [2022-07-18 22:34:59] Initialising estimates for: Vysočina
+DEBUG [2022-07-18 22:34:59] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 22:34:59] Vysočina: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 22:34:59] Vysočina: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 182 time steps of which 20 are a forecast
+WARN [2022-07-18 22:51:40] Vysočina (chain: 1): There were 2 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+WARN [2022-07-18 22:51:40] Vysočina (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+WARN [2022-07-18 22:51:43] Vysočina (chain: 1): The largest R-hat is 1.32, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 22:51:44] Vysočina (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 22:51:48] Vysočina (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 22:52:01] Completed estimates for: Vysočina
+INFO [2022-07-18 22:52:01] Initialising estimates for: Plzeň
+DEBUG [2022-07-18 22:52:01] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 22:52:02] Plzeň: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 22:52:02] Plzeň: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-18 23:11:37] Plzeň (chain: 1): There were 1 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+WARN [2022-07-18 23:11:37] Plzeň (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+WARN [2022-07-18 23:11:40] Plzeň (chain: 1): The largest R-hat is 1.44, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 23:11:41] Plzeň (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 23:11:45] Plzeň (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 23:11:58] Completed estimates for: Plzeň
+INFO [2022-07-18 23:11:58] Initialising estimates for: Karlovy Vary
+DEBUG [2022-07-18 23:11:58] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 23:11:58] Karlovy Vary: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 23:11:58] Karlovy Vary: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-18 23:25:26] Karlovy Vary (chain: 1): The largest R-hat is 1.4, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 23:25:27] Karlovy Vary (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 23:25:30] Karlovy Vary (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 23:25:44] Completed estimates for: Karlovy Vary
+INFO [2022-07-18 23:25:44] Initialising estimates for: Liberec
+DEBUG [2022-07-18 23:25:44] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 23:25:44] Liberec: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 23:25:44] Liberec: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-18 23:39:06] Liberec (chain: 1): There were 1 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+WARN [2022-07-18 23:39:06] Liberec (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+WARN [2022-07-18 23:39:08] Liberec (chain: 1): The largest R-hat is 1.48, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 23:39:10] Liberec (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 23:39:13] Liberec (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 23:39:23] Completed estimates for: Liberec
+INFO [2022-07-18 23:39:23] Initialising estimates for: Hradec Králové
+DEBUG [2022-07-18 23:39:23] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 23:39:23] Hradec Králové: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 23:39:23] Hradec Králové: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-18 23:53:18] Hradec Králové (chain: 1): The largest R-hat is 1.41, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-18 23:53:19] Hradec Králové (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-18 23:53:21] Hradec Králové (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-18 23:53:30] Completed estimates for: Hradec Králové
+INFO [2022-07-18 23:53:30] Initialising estimates for: Pardubice
+DEBUG [2022-07-18 23:53:30] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-18 23:53:30] Pardubice: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-18 23:53:30] Pardubice: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-19 00:06:51] Pardubice (chain: 1): The largest R-hat is 1.39, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 00:06:52] Pardubice (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 00:06:55] Pardubice (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 00:07:06] Completed estimates for: Pardubice
+INFO [2022-07-19 00:07:06] Initialising estimates for: Olomouc
+DEBUG [2022-07-19 00:07:06] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 00:07:06] Olomouc: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 00:07:06] Olomouc: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-19 00:20:11] Olomouc (chain: 1): The largest R-hat is 1.3, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 00:20:13] Olomouc (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 00:20:18] Olomouc (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 00:20:33] Completed estimates for: Olomouc
+INFO [2022-07-19 00:20:33] Initialising estimates for: South Moravian
+DEBUG [2022-07-19 00:20:33] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 00:20:33] South Moravian: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 00:20:33] South Moravian: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-19 00:37:53] South Moravian (chain: 1): The largest R-hat is 1.28, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 00:37:54] South Moravian (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 00:37:58] South Moravian (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 00:38:08] Completed estimates for: South Moravian
+INFO [2022-07-19 00:38:08] Initialising estimates for: Zlín
+DEBUG [2022-07-19 00:38:08] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 00:38:08] Zlín: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 00:38:08] Zlín: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-19 00:53:59] Zlín (chain: 1): There were 1 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+WARN [2022-07-19 00:53:59] Zlín (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+WARN [2022-07-19 00:54:00] Zlín (chain: 1): The largest R-hat is 1.4, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 00:54:00] Zlín (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 00:54:03] Zlín (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 00:54:11] Completed estimates for: Zlín
+INFO [2022-07-19 00:54:11] Initialising estimates for: Genéve
+DEBUG [2022-07-19 00:54:11] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 00:54:11] Genéve: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 00:54:11] Genéve: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 182 time steps of which 20 are a forecast
+WARN [2022-07-19 01:12:58] Genéve (chain: 1): There were 1 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+WARN [2022-07-19 01:12:58] Genéve (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+WARN [2022-07-19 01:13:00] Genéve (chain: 1): The largest R-hat is 1.37, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 01:13:01] Genéve (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 01:13:05] Genéve (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 01:13:20] Completed estimates for: Genéve
+INFO [2022-07-19 01:13:20] Initialising estimates for: Zurich
+DEBUG [2022-07-19 01:13:20] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 01:13:20] Zurich: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 01:13:20] Zurich: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 182 time steps of which 20 are a forecast
+WARN [2022-07-19 01:41:22] Zurich (chain: 1): The largest R-hat is 1.36, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 01:41:23] Zurich (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 01:41:28] Zurich (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 01:41:43] Completed estimates for: Zurich
+INFO [2022-07-19 01:41:43] Initialising estimates for: Basel-Stadt
+DEBUG [2022-07-19 01:41:43] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 01:41:43] Basel-Stadt: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 01:41:44] Basel-Stadt: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 182 time steps of which 20 are a forecast
+WARN [2022-07-19 02:13:14] Basel-Stadt (chain: 1): The largest R-hat is 1.33, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 02:13:15] Basel-Stadt (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 02:13:20] Basel-Stadt (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 02:13:34] Completed estimates for: Basel-Stadt
+INFO [2022-07-19 02:13:34] Initialising estimates for: Grischun
+DEBUG [2022-07-19 02:13:34] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 02:13:35] Grischun: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 02:13:35] Grischun: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 182 time steps of which 20 are a forecast
+ERROR [2022-07-19 02:30:47] Grischun: $ operator is invalid for atomic vectors - 
+INFO [2022-07-19 02:30:48] Initialising estimates for: Freiburg
+DEBUG [2022-07-19 02:30:48] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 02:30:48] Freiburg: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 02:30:48] Freiburg: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 182 time steps of which 20 are a forecast
+WARN [2022-07-19 03:00:50] Freiburg (chain: 1): The largest R-hat is 1.34, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 03:00:52] Freiburg (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 03:00:57] Freiburg (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 03:01:14] Completed estimates for: Freiburg
+INFO [2022-07-19 03:01:14] Initialising estimates for: Aargau
+DEBUG [2022-07-19 03:01:14] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 03:01:14] Aargau: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 03:01:14] Aargau: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 182 time steps of which 20 are a forecast
+WARN [2022-07-19 03:31:22] Aargau (chain: 1): There were 1 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+WARN [2022-07-19 03:31:22] Aargau (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+WARN [2022-07-19 03:31:25] Aargau (chain: 1): The largest R-hat is 1.3, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 03:31:27] Aargau (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 03:31:31] Aargau (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 03:31:46] Completed estimates for: Aargau
+INFO [2022-07-19 03:31:46] Initialising estimates for: Thurgau
+DEBUG [2022-07-19 03:31:46] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 03:31:46] Thurgau: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 03:31:46] Thurgau: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 182 time steps of which 20 are a forecast
+WARN [2022-07-19 03:54:20] Thurgau (chain: 1): The largest R-hat is 1.39, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 03:54:20] Thurgau (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 03:54:23] Thurgau (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 03:54:34] Completed estimates for: Thurgau
+INFO [2022-07-19 03:54:34] Initialising estimates for: Jura
+DEBUG [2022-07-19 03:54:34] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 03:54:34] Jura: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 03:54:34] Jura: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 171 time steps of which 20 are a forecast
+WARN [2022-07-19 04:07:23] Jura (chain: 1): The largest R-hat is 1.38, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 04:07:23] Jura (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 04:07:26] Jura (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 04:07:34] Completed estimates for: Jura
+INFO [2022-07-19 04:07:34] Initialising estimates for: Basel-Landschaft
+DEBUG [2022-07-19 04:07:34] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 04:07:34] Basel-Landschaft: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 04:07:35] Basel-Landschaft: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 182 time steps of which 20 are a forecast
+WARN [2022-07-19 04:28:31] Basel-Landschaft (chain: 1): There were 1 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+WARN [2022-07-19 04:28:31] Basel-Landschaft (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+WARN [2022-07-19 04:28:32] Basel-Landschaft (chain: 1): The largest R-hat is 1.33, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 04:28:33] Basel-Landschaft (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 04:28:36] Basel-Landschaft (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 04:28:46] Completed estimates for: Basel-Landschaft
+INFO [2022-07-19 04:28:46] Initialising estimates for: Vaud
+DEBUG [2022-07-19 04:28:46] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 04:28:46] Vaud: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 04:28:46] Vaud: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 182 time steps of which 20 are a forecast
+WARN [2022-07-19 04:51:58] Vaud (chain: 1): The largest R-hat is 1.34, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 04:51:59] Vaud (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 04:52:01] Vaud (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 04:52:10] Completed estimates for: Vaud
+INFO [2022-07-19 04:52:10] Initialising estimates for: Valais
+DEBUG [2022-07-19 04:52:10] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 04:52:10] Valais: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 04:52:10] Valais: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 182 time steps of which 20 are a forecast
+WARN [2022-07-19 05:12:55] Valais (chain: 1): The largest R-hat is 1.23, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 05:12:56] Valais (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 05:12:57] Valais (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 05:13:03] Completed estimates for: Valais
+INFO [2022-07-19 05:13:03] Initialising estimates for: Zug
+DEBUG [2022-07-19 05:13:03] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 05:13:03] Zug: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 05:13:03] Zug: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 181 time steps of which 20 are a forecast
+WARN [2022-07-19 05:19:33] Zug (chain: 1): The largest R-hat is 1.36, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 05:19:34] Zug (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 05:19:35] Zug (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 05:19:38] Completed estimates for: Zug
+INFO [2022-07-19 05:19:38] Initialising estimates for: Neuchâtel
+DEBUG [2022-07-19 05:19:38] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 05:19:38] Neuchâtel: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 05:19:38] Neuchâtel: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 181 time steps of which 20 are a forecast
+WARN [2022-07-19 05:26:49] Neuchâtel (chain: 1): The largest R-hat is 1.34, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 05:26:49] Neuchâtel (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 05:26:50] Neuchâtel (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 05:26:54] Completed estimates for: Neuchâtel
+INFO [2022-07-19 05:26:54] Initialising estimates for: St. Gallen
+DEBUG [2022-07-19 05:26:54] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 05:26:54] St. Gallen: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 05:26:54] St. Gallen: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 182 time steps of which 20 are a forecast
+WARN [2022-07-19 05:34:59] St. Gallen (chain: 1): The largest R-hat is 1.33, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 05:34:59] St. Gallen (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 05:35:00] St. Gallen (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 05:35:03] Completed estimates for: St. Gallen
+INFO [2022-07-19 05:35:03] Initialising estimates for: Luzern
+DEBUG [2022-07-19 05:35:03] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 05:35:04] Luzern: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 05:35:04] Luzern: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 182 time steps of which 20 are a forecast
+WARN [2022-07-19 05:44:21] Luzern (chain: 1): The largest R-hat is 1.28, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 05:44:21] Luzern (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 05:44:22] Luzern (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 05:44:26] Completed estimates for: Luzern
+INFO [2022-07-19 05:44:26] Initialising estimates for: Amsterdam-Amstelland
+DEBUG [2022-07-19 05:44:26] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 05:44:26] Amsterdam-Amstelland: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 05:44:26] Amsterdam-Amstelland: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-19 05:52:18] Amsterdam-Amstelland (chain: 1): There were 2 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+WARN [2022-07-19 05:52:18] Amsterdam-Amstelland (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+WARN [2022-07-19 05:52:19] Amsterdam-Amstelland (chain: 1): The largest R-hat is 1.31, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 05:52:19] Amsterdam-Amstelland (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 05:52:20] Amsterdam-Amstelland (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 05:52:24] Completed estimates for: Amsterdam-Amstelland
+INFO [2022-07-19 05:52:24] Initialising estimates for: Brabant-North
+DEBUG [2022-07-19 05:52:24] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 05:52:24] Brabant-North: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 05:52:24] Brabant-North: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-19 05:58:05] Brabant-North (chain: 1): There were 1 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+WARN [2022-07-19 05:58:05] Brabant-North (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+WARN [2022-07-19 05:58:06] Brabant-North (chain: 1): The largest R-hat is 1.42, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 05:58:07] Brabant-North (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 05:58:08] Brabant-North (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 05:58:11] Completed estimates for: Brabant-North
+INFO [2022-07-19 05:58:11] Initialising estimates for: Brabant-Southeast
+DEBUG [2022-07-19 05:58:11] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 05:58:11] Brabant-Southeast: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 05:58:11] Brabant-Southeast: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-19 06:04:29] Brabant-Southeast (chain: 1): The largest R-hat is 1.34, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 06:04:29] Brabant-Southeast (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 06:04:30] Brabant-Southeast (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 06:04:34] Completed estimates for: Brabant-Southeast
+INFO [2022-07-19 06:04:34] Initialising estimates for: Drenthe
+DEBUG [2022-07-19 06:04:34] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 06:04:34] Drenthe: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 06:04:34] Drenthe: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-19 06:11:37] Drenthe (chain: 1): The largest R-hat is 1.38, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 06:11:38] Drenthe (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 06:11:39] Drenthe (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 06:11:42] Completed estimates for: Drenthe
+INFO [2022-07-19 06:11:42] Initialising estimates for: Flevoland
+DEBUG [2022-07-19 06:11:42] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 06:11:42] Flevoland: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 06:11:42] Flevoland: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-19 06:19:49] Flevoland (chain: 1): The largest R-hat is 1.56, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 06:19:50] Flevoland (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 06:19:51] Flevoland (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 06:19:54] Completed estimates for: Flevoland
+INFO [2022-07-19 06:19:54] Initialising estimates for: Friesland
+DEBUG [2022-07-19 06:19:54] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 06:19:54] Friesland: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 06:19:54] Friesland: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-19 06:27:50] Friesland (chain: 1): There were 1 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+WARN [2022-07-19 06:27:50] Friesland (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+WARN [2022-07-19 06:27:51] Friesland (chain: 1): The largest R-hat is 1.34, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 06:27:51] Friesland (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 06:27:52] Friesland (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 06:27:56] Completed estimates for: Friesland
+INFO [2022-07-19 06:27:56] Initialising estimates for: Gelderland-Midden
+DEBUG [2022-07-19 06:27:56] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 06:27:56] Gelderland-Midden: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 06:27:56] Gelderland-Midden: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-19 06:35:11] Gelderland-Midden (chain: 1): There were 1 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+WARN [2022-07-19 06:35:11] Gelderland-Midden (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+WARN [2022-07-19 06:35:12] Gelderland-Midden (chain: 1): The largest R-hat is 1.35, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 06:35:12] Gelderland-Midden (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 06:35:13] Gelderland-Midden (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 06:35:16] Completed estimates for: Gelderland-Midden
+INFO [2022-07-19 06:35:16] Initialising estimates for: Gelderland-South
+DEBUG [2022-07-19 06:35:16] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 06:35:16] Gelderland-South: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 06:35:16] Gelderland-South: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-19 06:43:33] Gelderland-South (chain: 1): The largest R-hat is 1.66, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 06:43:34] Gelderland-South (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 06:43:34] Gelderland-South (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 06:43:38] Completed estimates for: Gelderland-South
+INFO [2022-07-19 06:43:38] Initialising estimates for: Gooi en Vechtstreek
+DEBUG [2022-07-19 06:43:38] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 06:43:38] Gooi en Vechtstreek: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 06:43:38] Gooi en Vechtstreek: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-19 06:51:11] Gooi en Vechtstreek (chain: 1): There were 1 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+WARN [2022-07-19 06:51:11] Gooi en Vechtstreek (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+WARN [2022-07-19 06:51:12] Gooi en Vechtstreek (chain: 1): The largest R-hat is 1.44, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 06:51:12] Gooi en Vechtstreek (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 06:51:13] Gooi en Vechtstreek (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 06:51:17] Completed estimates for: Gooi en Vechtstreek
+INFO [2022-07-19 06:51:17] Initialising estimates for: Groningen
+DEBUG [2022-07-19 06:51:17] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 06:51:17] Groningen: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 06:51:17] Groningen: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-19 06:59:58] Groningen (chain: 1): The largest R-hat is 1.49, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 06:59:58] Groningen (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 06:59:59] Groningen (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 07:00:03] Completed estimates for: Groningen
+INFO [2022-07-19 07:00:03] Initialising estimates for: Haaglanden
+DEBUG [2022-07-19 07:00:03] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 07:00:03] Haaglanden: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 07:00:03] Haaglanden: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-19 07:07:27] Haaglanden (chain: 1): There were 1 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+WARN [2022-07-19 07:07:27] Haaglanden (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+WARN [2022-07-19 07:07:27] Haaglanden (chain: 1): The largest R-hat is 1.4, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 07:07:28] Haaglanden (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 07:07:29] Haaglanden (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 07:07:33] Completed estimates for: Haaglanden
+INFO [2022-07-19 07:07:33] Initialising estimates for: Hollands Midden
+DEBUG [2022-07-19 07:07:33] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 07:07:33] Hollands Midden: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 07:07:33] Hollands Midden: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-19 07:15:46] Hollands Midden (chain: 1): There were 3 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+WARN [2022-07-19 07:15:46] Hollands Midden (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+WARN [2022-07-19 07:15:47] Hollands Midden (chain: 1): The largest R-hat is 1.47, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 07:15:47] Hollands Midden (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 07:15:48] Hollands Midden (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 07:15:52] Completed estimates for: Hollands Midden
+INFO [2022-07-19 07:15:52] Initialising estimates for: IJsselland
+DEBUG [2022-07-19 07:15:52] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 07:15:52] IJsselland: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 07:15:52] IJsselland: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-19 07:23:24] IJsselland (chain: 1): The largest R-hat is 1.56, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 07:23:24] IJsselland (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 07:23:25] IJsselland (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 07:23:29] Completed estimates for: IJsselland
+INFO [2022-07-19 07:23:29] Initialising estimates for: Kennemerland
+DEBUG [2022-07-19 07:23:29] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 07:23:29] Kennemerland: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 07:23:29] Kennemerland: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-19 07:31:55] Kennemerland (chain: 1): The largest R-hat is 1.34, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 07:31:56] Kennemerland (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 07:31:57] Kennemerland (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 07:32:01] Completed estimates for: Kennemerland
+INFO [2022-07-19 07:32:01] Initialising estimates for: Limburg-North
+DEBUG [2022-07-19 07:32:01] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 07:32:01] Limburg-North: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 07:32:01] Limburg-North: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-19 07:42:35] Limburg-North (chain: 1): The largest R-hat is 1.44, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 07:42:35] Limburg-North (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 07:42:36] Limburg-North (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 07:42:40] Completed estimates for: Limburg-North
+INFO [2022-07-19 07:42:40] Initialising estimates for: Central and West Brabant
+DEBUG [2022-07-19 07:42:40] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 07:42:40] Central and West Brabant: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 07:42:40] Central and West Brabant: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-19 07:53:16] Central and West Brabant (chain: 1): There were 2 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+WARN [2022-07-19 07:53:16] Central and West Brabant (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+WARN [2022-07-19 07:53:17] Central and West Brabant (chain: 1): The largest R-hat is 1.46, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 07:53:17] Central and West Brabant (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 07:53:18] Central and West Brabant (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 07:53:22] Completed estimates for: Central and West Brabant
+INFO [2022-07-19 07:53:22] Initialising estimates for: North and East Gelderland
+DEBUG [2022-07-19 07:53:22] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 07:53:22] North and East Gelderland: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 07:53:22] North and East Gelderland: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-19 07:59:03] North and East Gelderland (chain: 1): The largest R-hat is 1.41, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 07:59:04] North and East Gelderland (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 07:59:05] North and East Gelderland (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 07:59:08] Completed estimates for: North and East Gelderland
+INFO [2022-07-19 07:59:08] Initialising estimates for: North Holland North
+DEBUG [2022-07-19 07:59:08] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 07:59:08] North Holland North: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 07:59:08] North Holland North: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-19 08:08:29] North Holland North (chain: 1): The largest R-hat is 1.36, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 08:08:30] North Holland North (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 08:08:31] North Holland North (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 08:08:34] Completed estimates for: North Holland North
+INFO [2022-07-19 08:08:34] Initialising estimates for: Rotterdam-Rijnmond
+DEBUG [2022-07-19 08:08:34] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 08:08:34] Rotterdam-Rijnmond: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 08:08:34] Rotterdam-Rijnmond: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-19 08:15:43] Rotterdam-Rijnmond (chain: 1): There were 2 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+WARN [2022-07-19 08:15:43] Rotterdam-Rijnmond (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+WARN [2022-07-19 08:15:44] Rotterdam-Rijnmond (chain: 1): The largest R-hat is 1.74, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 08:15:44] Rotterdam-Rijnmond (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 08:15:45] Rotterdam-Rijnmond (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 08:15:48] Completed estimates for: Rotterdam-Rijnmond
+INFO [2022-07-19 08:15:48] Initialising estimates for: Twente
+DEBUG [2022-07-19 08:15:48] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 08:15:48] Twente: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 08:15:48] Twente: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-19 08:21:12] Twente (chain: 1): There were 1 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+WARN [2022-07-19 08:21:12] Twente (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+WARN [2022-07-19 08:21:13] Twente (chain: 1): The largest R-hat is 1.4, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 08:21:13] Twente (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 08:21:14] Twente (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 08:21:17] Completed estimates for: Twente
+INFO [2022-07-19 08:21:17] Initialising estimates for: Utrecht
+DEBUG [2022-07-19 08:21:17] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 08:21:17] Utrecht: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 08:21:17] Utrecht: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-19 08:30:47] Utrecht (chain: 1): There were 2 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+WARN [2022-07-19 08:30:47] Utrecht (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+WARN [2022-07-19 08:30:47] Utrecht (chain: 1): The largest R-hat is 1.57, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 08:30:48] Utrecht (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 08:30:49] Utrecht (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 08:30:52] Completed estimates for: Utrecht
+INFO [2022-07-19 08:30:52] Initialising estimates for: Zaanstreek-Waterland
+DEBUG [2022-07-19 08:30:52] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 08:30:52] Zaanstreek-Waterland: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 08:30:53] Zaanstreek-Waterland: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-19 08:37:12] Zaanstreek-Waterland (chain: 1): The largest R-hat is 1.36, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 08:37:12] Zaanstreek-Waterland (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 08:37:13] Zaanstreek-Waterland (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 08:37:16] Completed estimates for: Zaanstreek-Waterland
+INFO [2022-07-19 08:37:16] Initialising estimates for: Zealand
+DEBUG [2022-07-19 08:37:16] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 08:37:16] Zealand: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 08:37:16] Zealand: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-19 08:44:16] Zealand (chain: 1): The largest R-hat is 1.49, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 08:44:16] Zealand (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 08:44:17] Zealand (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 08:44:21] Completed estimates for: Zealand
+INFO [2022-07-19 08:44:21] Initialising estimates for: South Holland South
+DEBUG [2022-07-19 08:44:21] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 08:44:21] South Holland South: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 08:44:21] South Holland South: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-19 08:52:43] South Holland South (chain: 1): There were 2 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+WARN [2022-07-19 08:52:43] South Holland South (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+WARN [2022-07-19 08:52:44] South Holland South (chain: 1): The largest R-hat is 1.58, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 08:52:44] South Holland South (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 08:52:45] South Holland South (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 08:52:48] Completed estimates for: South Holland South
+INFO [2022-07-19 08:52:48] Initialising estimates for: South Limburg
+DEBUG [2022-07-19 08:52:48] Producing following optional outputs: plots, samples, timing, latest
+WARN [2022-07-19 08:52:48] South Limburg: Incompatible methods ("-.Date", "-.IDate") for "-" - update_horizon, horizon, target_date, reported_cases
+DEBUG [2022-07-19 08:52:48] South Limburg: Running in exact mode for 52 samples (across 4 chains each with a warm up of 50 iterations each) and 183 time steps of which 20 are a forecast
+WARN [2022-07-19 09:01:04] South Limburg (chain: 1): The largest R-hat is 1.41, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat - 
+WARN [2022-07-19 09:01:05] South Limburg (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess - 
+WARN [2022-07-19 09:01:06] South Limburg (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess - 
+INFO [2022-07-19 09:01:09] Completed estimates for: South Limburg
+INFO [2022-07-19 09:01:09] Runtime error in Grischun : Grischun: $ operator is invalid for atomic vectors - 

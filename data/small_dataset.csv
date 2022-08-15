@@ -1,0 +1,526 @@
+Area,Date,Country,New Cases,New Deaths,Public Outdoor Gathering Person Limit,Public Indoor Gathering Person Limit,Private Outdoor Gathering Person Limit,Private Indoor Gathering Person Limit,Public Outdoor Household Limit,Public Indoor Household Limit,Private Outdoor Household Limit,Private Indoor Household Limit,Mandatory Mask Wearing,Some Face-to-Face Businesses Closed,Gastronomy Closed,Leisure Venues Closed,Retail Closed,All Face-to-Face Businesses Closed,Curfew,Primary Schools Closed,Secondary Schools Closed,Universities Away
+Lincolnshire,01/08/2020,England,2,0,30,30,30,30,30,30,30,30,2,1,0,1,0,0,0,1,1,1
+Lincolnshire,02/08/2020,England,3,0,30,30,30,30,30,30,30,30,2,1,0,1,0,0,0,1,1,1
+Lincolnshire,03/08/2020,England,7,0,30,30,30,30,30,30,30,30,2,1,0,1,0,0,0,1,1,1
+Lincolnshire,04/08/2020,England,8,0,30,30,30,30,30,30,30,30,2,1,0,1,0,0,0,1,1,1
+Lincolnshire,05/08/2020,England,9,0,30,30,30,30,30,30,30,30,2,1,0,1,0,0,0,1,1,1
+Lincolnshire,06/08/2020,England,5,0,30,30,30,30,30,30,30,30,2,1,0,1,0,0,0,1,1,1
+Lincolnshire,07/08/2020,England,6,0,30,30,30,30,30,30,30,30,2,1,0,1,0,0,0,1,1,1
+Lincolnshire,08/08/2020,England,3,0,30,30,30,30,30,30,30,30,2,1,0,1,0,0,0,1,1,1
+Lincolnshire,09/08/2020,England,3,0,30,30,30,30,30,30,30,30,2,1,0,1,0,0,0,1,1,1
+Lincolnshire,10/08/2020,England,6,0,30,30,30,30,30,30,30,30,2,1,0,1,0,0,0,1,1,1
+Lincolnshire,11/08/2020,England,2,2,30,30,30,30,30,30,30,30,2,1,0,1,0,0,0,1,1,1
+Lincolnshire,12/08/2020,England,10,0,30,30,30,30,30,30,30,30,2,1,0,1,0,0,0,1,1,1
+Lincolnshire,13/08/2020,England,9,0,30,30,30,30,30,30,30,30,2,1,0,1,0,0,0,1,1,1
+Lincolnshire,14/08/2020,England,5,0,30,30,30,30,30,30,30,30,2,1,0,1,0,0,0,1,1,1
+Lincolnshire,15/08/2020,England,3,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,1,1,1
+Lincolnshire,16/08/2020,England,1,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,1,1,1
+Lincolnshire,17/08/2020,England,10,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,1,1,1
+Lincolnshire,18/08/2020,England,3,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,1,1,1
+Lincolnshire,19/08/2020,England,6,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,1,1,1
+Lincolnshire,20/08/2020,England,2,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,1,1,1
+Lincolnshire,21/08/2020,England,3,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,1,1,1
+Lincolnshire,22/08/2020,England,0,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,1,1,1
+Lincolnshire,23/08/2020,England,2,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,1,1,1
+Lincolnshire,24/08/2020,England,2,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,1,1,1
+Lincolnshire,25/08/2020,England,3,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,1,1,1
+Lincolnshire,26/08/2020,England,4,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,1,1,1
+Lincolnshire,27/08/2020,England,9,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,1,1,1
+Lincolnshire,28/08/2020,England,10,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,1,1,1
+Lincolnshire,29/08/2020,England,2,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,1,1,1
+Lincolnshire,30/08/2020,England,5,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,1,1,1
+Lincolnshire,31/08/2020,England,12,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,1,1,1
+Lincolnshire,01/09/2020,England,7,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,1,1,1
+Lincolnshire,02/09/2020,England,32,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,1,1,1
+Lincolnshire,03/09/2020,England,31,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,0,0,1
+Lincolnshire,04/09/2020,England,20,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,0,0,1
+Lincolnshire,05/09/2020,England,17,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,0,0,1
+Lincolnshire,06/09/2020,England,9,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,0,0,1
+Lincolnshire,07/09/2020,England,21,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,0,0,1
+Lincolnshire,08/09/2020,England,43,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,0,0,1
+Lincolnshire,09/09/2020,England,22,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,0,0,1
+Lincolnshire,10/09/2020,England,15,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,0,0,1
+Lincolnshire,11/09/2020,England,16,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,0,0,1
+Lincolnshire,12/09/2020,England,10,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,0,0,1
+Lincolnshire,13/09/2020,England,12,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,0,0,1
+Lincolnshire,14/09/2020,England,19,0,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Lincolnshire,15/09/2020,England,12,0,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Lincolnshire,16/09/2020,England,31,0,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Lincolnshire,17/09/2020,England,21,0,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Lincolnshire,18/09/2020,England,19,0,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Lincolnshire,19/09/2020,England,26,0,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Lincolnshire,20/09/2020,England,22,0,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Lincolnshire,21/09/2020,England,18,2,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Lincolnshire,22/09/2020,England,22,1,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Lincolnshire,23/09/2020,England,29,0,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Lincolnshire,24/09/2020,England,25,0,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Lincolnshire,25/09/2020,England,38,0,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Lincolnshire,26/09/2020,England,23,0,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Lincolnshire,27/09/2020,England,26,0,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Lincolnshire,28/09/2020,England,43,0,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Lincolnshire,29/09/2020,England,47,2,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Lincolnshire,30/09/2020,England,56,0,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Lincolnshire,01/10/2020,England,68,2,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Lincolnshire,02/10/2020,England,80,1,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Lincolnshire,03/10/2020,England,66,3,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Lincolnshire,04/10/2020,England,50,3,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Lincolnshire,05/10/2020,England,64,0,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Lincolnshire,06/10/2020,England,76,0,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Lincolnshire,07/10/2020,England,100,1,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Lincolnshire,08/10/2020,England,105,0,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Lincolnshire,09/10/2020,England,119,0,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Lincolnshire,10/10/2020,England,84,2,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Lincolnshire,11/10/2020,England,73,1,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Lincolnshire,12/10/2020,England,112,1,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,0
+Lincolnshire,13/10/2020,England,144,0,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,0
+Lincolnshire,14/10/2020,England,121,2,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,0
+Lincolnshire,15/10/2020,England,123,1,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,0
+Lincolnshire,16/10/2020,England,92,1,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,0
+Lincolnshire,17/10/2020,England,103,2,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,0
+Lincolnshire,18/10/2020,England,86,0,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,0
+Lincolnshire,19/10/2020,England,247,2,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,0
+Lincolnshire,20/10/2020,England,213,3,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,0
+Lincolnshire,21/10/2020,England,197,4,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,0
+Lincolnshire,22/10/2020,England,252,2,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,0
+Lincolnshire,23/10/2020,England,194,3,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,1,1,0
+Lincolnshire,24/10/2020,England,182,2,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,1,1,0
+Lincolnshire,25/10/2020,England,154,4,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,1,1,0
+Lincolnshire,26/10/2020,England,275,3,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,1,1,0
+Lincolnshire,27/10/2020,England,194,4,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,1,1,0
+Lincolnshire,28/10/2020,England,221,3,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,1,1,0
+Lincolnshire,29/10/2020,England,240,3,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,1,1,0
+Lincolnshire,30/10/2020,England,234,2,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,1,1,0
+Lincolnshire,31/10/2020,England,169,7,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,1,1,0
+Lincolnshire,01/11/2020,England,124,4,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,1,1,0
+Lincolnshire,02/11/2020,England,389,6,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,0
+Lincolnshire,03/11/2020,England,284,0,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,0
+Lincolnshire,04/11/2020,England,305,4,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,0
+Lincolnshire,05/11/2020,England,302,3,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Lincolnshire,06/11/2020,England,353,6,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Lincolnshire,07/11/2020,England,229,1,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Lincolnshire,08/11/2020,England,330,3,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Lincolnshire,09/11/2020,England,503,5,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Lincolnshire,10/11/2020,England,473,6,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Lincolnshire,11/11/2020,England,451,8,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Lincolnshire,12/11/2020,England,379,14,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Lincolnshire,13/11/2020,England,387,10,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Lincolnshire,14/11/2020,England,245,11,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Lincolnshire,15/11/2020,England,218,6,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Lincolnshire,16/11/2020,England,483,10,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Lincolnshire,17/11/2020,England,402,8,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Lincolnshire,18/11/2020,England,284,17,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Lincolnshire,19/11/2020,England,313,15,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Lincolnshire,20/11/2020,England,258,12,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Lincolnshire,21/11/2020,England,181,11,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Lincolnshire,22/11/2020,England,164,13,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Lincolnshire,23/11/2020,England,394,16,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Lincolnshire,24/11/2020,England,370,17,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Lincolnshire,25/11/2020,England,287,18,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Lincolnshire,26/11/2020,England,250,18,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Lincolnshire,27/11/2020,England,302,15,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Lincolnshire,28/11/2020,England,224,15,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Lincolnshire,29/11/2020,England,169,8,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Lincolnshire,30/11/2020,England,346,18,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Lincolnshire,01/12/2020,England,295,21,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Lincolnshire,02/12/2020,England,323,14,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,0,0,0
+Lincolnshire,03/12/2020,England,246,14,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,0,0,0
+Lincolnshire,04/12/2020,England,267,16,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,0,0,0
+Lincolnshire,05/12/2020,England,183,14,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,0,0,0
+Lincolnshire,06/12/2020,England,181,17,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,0,0,0
+Lincolnshire,07/12/2020,England,422,15,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,0,0,0
+Lincolnshire,08/12/2020,England,298,14,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,0,0,0
+Lincolnshire,09/12/2020,England,310,16,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,0,0,1
+Lincolnshire,10/12/2020,England,294,17,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,0,0,1
+Lincolnshire,11/12/2020,England,325,11,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,0,0,1
+Lincolnshire,12/12/2020,England,183,23,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,0,0,1
+Lincolnshire,13/12/2020,England,171,12,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,0,0,1
+Lincolnshire,14/12/2020,England,430,15,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,0,0,1
+Lincolnshire,15/12/2020,England,301,15,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,0,0,1
+Lincolnshire,16/12/2020,England,314,12,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,0,0,1
+Lincolnshire,17/12/2020,England,263,15,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,0,1,1
+Lincolnshire,18/12/2020,England,287,19,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,1,1,1
+Lincolnshire,19/12/2020,England,182,6,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,1,1,1
+Lincolnshire,20/12/2020,England,328,13,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,1,1,1
+Lincolnshire,21/12/2020,England,383,19,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,1,1,1
+Lincolnshire,22/12/2020,England,351,14,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,1,1,1
+Lincolnshire,23/12/2020,England,344,10,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,1,1,1
+Lincolnshire,24/12/2020,England,201,9,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,1,1,1
+Lincolnshire,25/12/2020,England,118,9,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,1,1,1
+Lincolnshire,26/12/2020,England,242,10,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,1,1,1
+Lincolnshire,27/12/2020,England,321,17,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,1,1,1
+Lincolnshire,28/12/2020,England,273,6,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,1,1,1
+Lincolnshire,29/12/2020,England,515,7,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,1,1,1
+Lincolnshire,30/12/2020,England,410,9,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,1,1,1
+Lincolnshire,31/12/2020,England,275,9,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Lincolnshire,01/01/2021,England,175,6,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Lincolnshire,02/01/2021,England,375,6,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Lincolnshire,03/01/2021,England,294,7,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Lincolnshire,04/01/2021,England,414,8,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,1,1
+Lincolnshire,05/01/2021,England,348,11,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Lincolnshire,06/01/2021,England,311,10,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Lincolnshire,07/01/2021,England,279,11,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Lincolnshire,08/01/2021,England,275,7,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Lincolnshire,09/01/2021,England,193,11,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Lincolnshire,10/01/2021,England,207,9,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Lincolnshire,11/01/2021,England,345,13,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Lincolnshire,12/01/2021,England,306,8,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Lincolnshire,13/01/2021,England,252,10,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Lincolnshire,14/01/2021,England,251,14,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Lincolnshire,15/01/2021,England,302,14,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Lincolnshire,16/01/2021,England,204,13,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Lincolnshire,17/01/2021,England,190,9,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Lincolnshire,18/01/2021,England,301,13,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Lincolnshire,19/01/2021,England,289,12,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Lincolnshire,20/01/2021,England,225,10,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Lincolnshire,21/01/2021,England,156,10,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Lincolnshire,22/01/2021,England,47,4,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Greater Manchester South West,01/08/2020,England,14,1,30,30,30,30,30,30,30,30,2,1,0,1,0,0,0,1,1,1
+Greater Manchester South West,02/08/2020,England,15,0,30,30,30,30,30,30,30,30,2,1,0,1,0,0,0,1,1,1
+Greater Manchester South West,03/08/2020,England,24,0,30,30,30,30,30,30,30,30,2,1,0,1,0,0,0,1,1,1
+Greater Manchester South West,04/08/2020,England,17,0,30,30,30,30,30,30,30,30,2,1,0,1,0,0,0,1,1,1
+Greater Manchester South West,05/08/2020,England,19,0,30,30,30,1,30,30,30,1,2,1,0,1,0,0,0,1,1,1
+Greater Manchester South West,06/08/2020,England,30,0,30,30,30,1,30,30,30,1,2,1,0,1,0,0,0,1,1,1
+Greater Manchester South West,07/08/2020,England,10,0,30,30,30,1,30,30,30,1,2,1,0,1,0,0,0,1,1,1
+Greater Manchester South West,08/08/2020,England,14,1,30,30,30,1,30,30,30,1,2,1,0,1,0,0,0,1,1,1
+Greater Manchester South West,09/08/2020,England,8,0,30,30,30,1,30,30,30,1,2,1,0,1,0,0,0,1,1,1
+Greater Manchester South West,10/08/2020,England,43,0,30,30,30,1,30,30,30,1,2,1,0,1,0,0,0,1,1,1
+Greater Manchester South West,11/08/2020,England,20,0,30,30,30,1,30,30,30,1,2,1,0,1,0,0,0,1,1,1
+Greater Manchester South West,12/08/2020,England,26,0,30,30,30,1,30,30,30,1,2,1,0,1,0,0,0,1,1,1
+Greater Manchester South West,13/08/2020,England,25,0,30,30,30,1,30,30,30,1,2,1,0,1,0,0,0,1,1,1
+Greater Manchester South West,14/08/2020,England,24,0,30,30,30,1,30,30,30,1,2,1,0,1,0,0,0,1,1,1
+Greater Manchester South West,15/08/2020,England,13,0,30,30,30,1,30,30,30,1,2,1,0,1,0,0,0,1,1,1
+Greater Manchester South West,16/08/2020,England,6,0,30,30,30,1,30,30,30,1,2,1,0,1,0,0,0,1,1,1
+Greater Manchester South West,17/08/2020,England,25,0,30,30,30,1,30,30,30,1,2,1,0,1,0,0,0,1,1,1
+Greater Manchester South West,18/08/2020,England,14,0,30,30,30,1,30,30,30,1,2,1,0,1,0,0,0,1,1,1
+Greater Manchester South West,19/08/2020,England,24,0,30,30,30,1,30,30,30,1,2,1,0,1,0,0,0,1,1,1
+Greater Manchester South West,20/08/2020,England,18,0,30,30,30,1,30,30,30,1,2,1,0,1,0,0,0,1,1,1
+Greater Manchester South West,21/08/2020,England,18,0,30,30,30,1,30,30,30,1,2,1,0,1,0,0,0,1,1,1
+Greater Manchester South West,22/08/2020,England,12,0,30,30,30,1,30,30,30,1,2,1,0,1,0,0,0,1,1,1
+Greater Manchester South West,23/08/2020,England,8,0,30,30,30,1,30,30,30,1,2,1,0,1,0,0,0,1,1,1
+Greater Manchester South West,24/08/2020,England,26,1,30,30,30,1,30,30,30,1,2,1,0,1,0,0,0,1,1,1
+Greater Manchester South West,25/08/2020,England,30,0,30,30,30,1,30,30,30,1,2,1,0,1,0,0,0,1,1,1
+Greater Manchester South West,26/08/2020,England,29,0,30,30,30,1,30,30,30,1,2,1,0,1,0,0,0,1,1,1
+Greater Manchester South West,27/08/2020,England,30,0,30,30,30,1,30,30,30,1,2,1,0,1,0,0,0,1,1,1
+Greater Manchester South West,28/08/2020,England,53,0,30,30,30,1,30,30,30,1,2,1,0,1,0,0,0,1,1,1
+Greater Manchester South West,29/08/2020,England,13,0,30,30,30,1,30,30,30,1,2,1,0,1,0,0,0,1,1,1
+Greater Manchester South West,30/08/2020,England,20,0,30,30,30,1,30,30,30,1,2,1,0,1,0,0,0,1,1,1
+Greater Manchester South West,31/08/2020,England,19,0,30,30,30,1,30,30,30,1,2,1,0,1,0,0,0,1,1,1
+Greater Manchester South West,01/09/2020,England,39,0,30,30,30,1,30,30,30,1,2,1,0,1,0,0,0,0,0,1
+Greater Manchester South West,02/09/2020,England,48,0,30,30,30,1,30,30,30,1,2,1,0,1,0,0,0,0,0,1
+Greater Manchester South West,03/09/2020,England,46,1,30,30,30,1,30,30,30,1,2,1,0,1,0,0,0,0,0,1
+Greater Manchester South West,04/09/2020,England,51,0,30,30,30,1,30,30,30,1,2,1,0,1,0,0,0,0,0,1
+Greater Manchester South West,05/09/2020,England,29,0,30,30,30,1,30,30,30,1,2,1,0,1,0,0,0,0,0,1
+Greater Manchester South West,06/09/2020,England,38,1,30,30,30,1,30,30,30,1,2,1,0,1,0,0,0,0,0,1
+Greater Manchester South West,07/09/2020,England,53,1,30,30,30,1,30,30,30,1,2,1,0,1,0,0,0,0,0,1
+Greater Manchester South West,08/09/2020,England,55,1,30,30,30,1,30,30,30,1,2,1,0,1,0,0,0,0,0,1
+Greater Manchester South West,09/09/2020,England,64,2,30,30,30,1,30,30,30,1,2,1,0,0,0,0,0,0,0,1
+Greater Manchester South West,10/09/2020,England,51,2,30,30,30,1,30,30,30,1,2,1,0,0,0,0,0,0,0,1
+Greater Manchester South West,11/09/2020,England,48,1,30,30,30,1,30,30,30,1,2,1,0,0,0,0,0,0,0,1
+Greater Manchester South West,12/09/2020,England,50,2,30,30,30,1,30,30,30,1,2,1,0,0,0,0,0,0,0,1
+Greater Manchester South West,13/09/2020,England,41,0,30,30,30,1,30,30,30,1,2,1,0,0,0,0,0,0,0,1
+Greater Manchester South West,14/09/2020,England,59,1,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,0,0,1
+Greater Manchester South West,15/09/2020,England,65,1,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,0,0,1
+Greater Manchester South West,16/09/2020,England,100,1,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,0,0,1
+Greater Manchester South West,17/09/2020,England,68,1,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,0,0,1
+Greater Manchester South West,18/09/2020,England,87,0,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,0,0,1
+Greater Manchester South West,19/09/2020,England,84,1,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,0,0,1
+Greater Manchester South West,20/09/2020,England,100,0,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,0,0,1
+Greater Manchester South West,21/09/2020,England,93,1,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,0,0,1
+Greater Manchester South West,22/09/2020,England,107,1,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,0,0,1
+Greater Manchester South West,23/09/2020,England,128,2,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,0,0,1
+Greater Manchester South West,24/09/2020,England,158,0,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,0,0,1
+Greater Manchester South West,25/09/2020,England,144,1,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,0,0,1
+Greater Manchester South West,26/09/2020,England,124,1,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,0,0,1
+Greater Manchester South West,27/09/2020,England,143,2,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,0,0,1
+Greater Manchester South West,28/09/2020,England,171,0,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,0,0,0
+Greater Manchester South West,29/09/2020,England,185,1,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,0,0,0
+Greater Manchester South West,30/09/2020,England,213,0,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,0,0,0
+Greater Manchester South West,01/10/2020,England,309,2,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,0,0,0
+Greater Manchester South West,02/10/2020,England,225,2,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,0,0,0
+Greater Manchester South West,03/10/2020,England,216,1,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,0,0,0
+Greater Manchester South West,04/10/2020,England,200,0,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,0,0,0
+Greater Manchester South West,05/10/2020,England,312,0,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,0,0,0
+Greater Manchester South West,06/10/2020,England,319,0,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,0,0,0
+Greater Manchester South West,07/10/2020,England,261,0,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,0,0,0
+Greater Manchester South West,08/10/2020,England,297,2,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,0,0,0
+Greater Manchester South West,09/10/2020,England,235,2,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,0,0,0
+Greater Manchester South West,10/10/2020,England,215,0,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,0,0,0
+Greater Manchester South West,11/10/2020,England,171,1,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,0,0,0
+Greater Manchester South West,12/10/2020,England,341,1,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,0,0,0
+Greater Manchester South West,13/10/2020,England,290,3,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,0,0,0
+Greater Manchester South West,14/10/2020,England,314,1,6,1,6,1,6,1,6,1,2,1,0,0,0,0,0,0,0,0
+Greater Manchester South West,15/10/2020,England,303,2,6,1,6,1,6,1,6,1,2,1,0,0,0,0,0,0,0,0
+Greater Manchester South West,16/10/2020,England,245,4,6,1,6,1,6,1,6,1,2,1,0,0,0,0,0,0,0,0
+Greater Manchester South West,17/10/2020,England,304,5,6,1,6,1,6,1,6,1,2,1,0,0,0,0,0,0,0,0
+Greater Manchester South West,18/10/2020,England,265,3,6,1,6,1,6,1,6,1,2,1,0,0,0,0,0,0,0,0
+Greater Manchester South West,19/10/2020,England,456,1,6,1,6,1,6,1,6,1,2,1,0,0,0,0,0,0,0,0
+Greater Manchester South West,20/10/2020,England,461,1,6,1,6,1,6,1,6,1,2,1,0,0,0,0,0,0,0,0
+Greater Manchester South West,21/10/2020,England,437,6,6,1,6,1,6,1,6,1,2,1,0,0,0,0,0,0,0,0
+Greater Manchester South West,22/10/2020,England,392,4,6,1,6,1,6,1,6,1,2,1,0,0,0,0,0,0,0,0
+Greater Manchester South West,23/10/2020,England,382,4,6,1,1,1,6,1,1,1,2,1,0,0,0,0,0,0,0,0
+Greater Manchester South West,24/10/2020,England,251,0,6,1,1,1,6,1,1,1,2,1,0,1,0,0,0,1,1,0
+Greater Manchester South West,25/10/2020,England,257,3,6,1,1,1,6,1,1,1,2,1,0,1,0,0,0,1,1,0
+Greater Manchester South West,26/10/2020,England,470,2,6,1,1,1,6,1,1,1,2,1,0,1,0,0,0,1,1,0
+Greater Manchester South West,27/10/2020,England,394,6,6,1,1,1,6,1,1,1,2,1,0,1,0,0,0,1,1,0
+Greater Manchester South West,28/10/2020,England,423,2,6,1,1,1,6,1,1,1,2,1,0,1,0,0,0,1,1,0
+Greater Manchester South West,29/10/2020,England,395,6,6,1,1,1,6,1,1,1,2,1,0,1,0,0,0,1,1,0
+Greater Manchester South West,30/10/2020,England,358,7,6,1,1,1,6,1,1,1,2,1,0,1,0,0,0,1,1,0
+Greater Manchester South West,31/10/2020,England,267,0,6,1,1,1,6,1,1,1,2,1,0,1,0,0,0,1,1,0
+Greater Manchester South West,01/11/2020,England,271,2,6,1,1,1,6,1,1,1,2,1,0,1,0,0,0,1,1,0
+Greater Manchester South West,02/11/2020,England,513,8,6,1,1,1,6,1,1,1,2,1,0,1,0,0,0,0,0,0
+Greater Manchester South West,03/11/2020,England,366,3,6,1,1,1,6,1,1,1,2,1,0,1,0,0,0,0,0,0
+Greater Manchester South West,04/11/2020,England,360,4,6,1,1,1,6,1,1,1,2,1,0,1,0,0,0,0,0,0
+Greater Manchester South West,05/11/2020,England,320,6,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Greater Manchester South West,06/11/2020,England,322,10,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Greater Manchester South West,07/11/2020,England,200,7,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Greater Manchester South West,08/11/2020,England,276,5,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Greater Manchester South West,09/11/2020,England,357,5,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Greater Manchester South West,10/11/2020,England,325,5,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Greater Manchester South West,11/11/2020,England,301,7,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Greater Manchester South West,12/11/2020,England,286,5,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Greater Manchester South West,13/11/2020,England,257,7,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Greater Manchester South West,14/11/2020,England,174,3,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Greater Manchester South West,15/11/2020,England,145,4,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Greater Manchester South West,16/11/2020,England,248,5,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Greater Manchester South West,17/11/2020,England,197,7,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Greater Manchester South West,18/11/2020,England,169,5,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Greater Manchester South West,19/11/2020,England,130,6,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Greater Manchester South West,20/11/2020,England,113,5,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Greater Manchester South West,21/11/2020,England,85,6,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Greater Manchester South West,22/11/2020,England,96,1,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Greater Manchester South West,23/11/2020,England,130,5,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Greater Manchester South West,24/11/2020,England,109,4,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Greater Manchester South West,25/11/2020,England,101,6,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Greater Manchester South West,26/11/2020,England,98,2,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Greater Manchester South West,27/11/2020,England,81,2,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Greater Manchester South West,28/11/2020,England,78,2,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Greater Manchester South West,29/11/2020,England,61,4,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Greater Manchester South West,30/11/2020,England,99,2,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Greater Manchester South West,01/12/2020,England,88,2,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,0
+Greater Manchester South West,02/12/2020,England,84,4,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,0,0,0
+Greater Manchester South West,03/12/2020,England,77,7,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,0,0,0
+Greater Manchester South West,04/12/2020,England,76,3,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,0,0,0
+Greater Manchester South West,05/12/2020,England,60,1,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,0,0,0
+Greater Manchester South West,06/12/2020,England,68,4,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,0,0,0
+Greater Manchester South West,07/12/2020,England,108,1,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,0,0,0
+Greater Manchester South West,08/12/2020,England,89,5,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,0,0,0
+Greater Manchester South West,09/12/2020,England,104,3,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,0,0,1
+Greater Manchester South West,10/12/2020,England,106,2,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,0,0,1
+Greater Manchester South West,11/12/2020,England,106,2,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,0,0,1
+Greater Manchester South West,12/12/2020,England,80,5,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,0,0,1
+Greater Manchester South West,13/12/2020,England,91,2,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,0,0,1
+Greater Manchester South West,14/12/2020,England,127,5,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,0,0,1
+Greater Manchester South West,15/12/2020,England,146,2,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,0,0,1
+Greater Manchester South West,16/12/2020,England,126,6,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,0,0,1
+Greater Manchester South West,17/12/2020,England,126,0,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,0,0,1
+Greater Manchester South West,18/12/2020,England,167,1,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,0,0,1
+Greater Manchester South West,19/12/2020,England,109,1,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,1,1,1
+Greater Manchester South West,20/12/2020,England,121,4,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,1,1,1
+Greater Manchester South West,21/12/2020,England,222,5,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,1,1,1
+Greater Manchester South West,22/12/2020,England,216,4,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,1,1,1
+Greater Manchester South West,23/12/2020,England,224,1,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,1,1,1
+Greater Manchester South West,24/12/2020,England,123,4,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,1,1,1
+Greater Manchester South West,25/12/2020,England,59,3,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,1,1,1
+Greater Manchester South West,26/12/2020,England,155,2,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,1,1,1
+Greater Manchester South West,27/12/2020,England,166,4,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,1,1,1
+Greater Manchester South West,28/12/2020,England,202,5,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,1,1,1
+Greater Manchester South West,29/12/2020,England,377,2,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,1,1,1
+Greater Manchester South West,30/12/2020,England,355,2,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,1,1,1
+Greater Manchester South West,31/12/2020,England,242,5,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Greater Manchester South West,01/01/2021,England,149,3,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Greater Manchester South West,02/01/2021,England,334,4,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Greater Manchester South West,03/01/2021,England,296,1,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Greater Manchester South West,04/01/2021,England,408,1,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,1,1
+Greater Manchester South West,05/01/2021,England,371,1,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Greater Manchester South West,06/01/2021,England,364,5,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Greater Manchester South West,07/01/2021,England,304,6,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Greater Manchester South West,08/01/2021,England,320,3,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Greater Manchester South West,09/01/2021,England,254,3,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Greater Manchester South West,10/01/2021,England,259,2,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Greater Manchester South West,11/01/2021,England,340,2,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Greater Manchester South West,12/01/2021,England,307,1,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Greater Manchester South West,13/01/2021,England,301,3,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Greater Manchester South West,14/01/2021,England,261,7,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Greater Manchester South West,15/01/2021,England,220,5,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Greater Manchester South West,16/01/2021,England,190,3,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Greater Manchester South West,17/01/2021,England,208,2,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Greater Manchester South West,18/01/2021,England,275,5,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Greater Manchester South West,19/01/2021,England,271,2,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Greater Manchester South West,20/01/2021,England,228,5,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Greater Manchester South West,21/01/2021,England,199,3,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Greater Manchester South West,22/01/2021,England,34,1,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Redbridge and Waltham Forest,01/08/2020,England,2,0,30,30,30,30,30,30,30,30,2,1,0,1,0,0,0,1,1,1
+Redbridge and Waltham Forest,02/08/2020,England,7,0,30,30,30,30,30,30,30,30,2,1,0,1,0,0,0,1,1,1
+Redbridge and Waltham Forest,03/08/2020,England,5,0,30,30,30,30,30,30,30,30,2,1,0,1,0,0,0,1,1,1
+Redbridge and Waltham Forest,04/08/2020,England,8,0,30,30,30,30,30,30,30,30,2,1,0,1,0,0,0,1,1,1
+Redbridge and Waltham Forest,05/08/2020,England,7,0,30,30,30,30,30,30,30,30,2,1,0,1,0,0,0,1,1,1
+Redbridge and Waltham Forest,06/08/2020,England,7,0,30,30,30,30,30,30,30,30,2,1,0,1,0,0,0,1,1,1
+Redbridge and Waltham Forest,07/08/2020,England,18,0,30,30,30,30,30,30,30,30,2,1,0,1,0,0,0,1,1,1
+Redbridge and Waltham Forest,08/08/2020,England,7,0,30,30,30,30,30,30,30,30,2,1,0,1,0,0,0,1,1,1
+Redbridge and Waltham Forest,09/08/2020,England,6,0,30,30,30,30,30,30,30,30,2,1,0,1,0,0,0,1,1,1
+Redbridge and Waltham Forest,10/08/2020,England,12,0,30,30,30,30,30,30,30,30,2,1,0,1,0,0,0,1,1,1
+Redbridge and Waltham Forest,11/08/2020,England,15,0,30,30,30,30,30,30,30,30,2,1,0,1,0,0,0,1,1,1
+Redbridge and Waltham Forest,12/08/2020,England,11,0,30,30,30,30,30,30,30,30,2,1,0,1,0,0,0,1,1,1
+Redbridge and Waltham Forest,13/08/2020,England,5,0,30,30,30,30,30,30,30,30,2,1,0,1,0,0,0,1,1,1
+Redbridge and Waltham Forest,14/08/2020,England,8,0,30,30,30,30,30,30,30,30,2,1,0,1,0,0,0,1,1,1
+Redbridge and Waltham Forest,15/08/2020,England,9,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,1,1,1
+Redbridge and Waltham Forest,16/08/2020,England,3,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,1,1,1
+Redbridge and Waltham Forest,17/08/2020,England,12,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,1,1,1
+Redbridge and Waltham Forest,18/08/2020,England,11,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,1,1,1
+Redbridge and Waltham Forest,19/08/2020,England,2,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,1,1,1
+Redbridge and Waltham Forest,20/08/2020,England,6,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,1,1,1
+Redbridge and Waltham Forest,21/08/2020,England,10,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,1,1,1
+Redbridge and Waltham Forest,22/08/2020,England,7,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,1,1,1
+Redbridge and Waltham Forest,23/08/2020,England,3,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,1,1,1
+Redbridge and Waltham Forest,24/08/2020,England,11,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,1,1,1
+Redbridge and Waltham Forest,25/08/2020,England,7,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,1,1,1
+Redbridge and Waltham Forest,26/08/2020,England,14,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,1,1,1
+Redbridge and Waltham Forest,27/08/2020,England,20,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,1,1,1
+Redbridge and Waltham Forest,28/08/2020,England,15,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,1,1,1
+Redbridge and Waltham Forest,29/08/2020,England,3,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,1,1,1
+Redbridge and Waltham Forest,30/08/2020,England,10,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,1,1,1
+Redbridge and Waltham Forest,31/08/2020,England,18,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,1,1,1
+Redbridge and Waltham Forest,01/09/2020,England,21,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,02/09/2020,England,25,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,03/09/2020,England,39,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,04/09/2020,England,24,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,05/09/2020,England,17,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,06/09/2020,England,14,1,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,07/09/2020,England,33,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,08/09/2020,England,19,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,09/09/2020,England,26,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,10/09/2020,England,31,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,11/09/2020,England,47,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,12/09/2020,England,23,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,13/09/2020,England,13,0,30,30,30,30,30,30,30,30,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,14/09/2020,England,28,0,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,15/09/2020,England,41,0,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,16/09/2020,England,31,0,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,17/09/2020,England,31,1,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,18/09/2020,England,46,1,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,19/09/2020,England,54,1,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,20/09/2020,England,42,1,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,21/09/2020,England,37,1,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,22/09/2020,England,45,2,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,23/09/2020,England,55,1,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,24/09/2020,England,72,1,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,25/09/2020,England,46,0,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,26/09/2020,England,44,0,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,27/09/2020,England,48,1,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,28/09/2020,England,62,2,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,29/09/2020,England,60,3,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,30/09/2020,England,93,2,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,01/10/2020,England,87,1,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,02/10/2020,England,89,1,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,03/10/2020,England,85,1,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,04/10/2020,England,74,0,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,05/10/2020,England,90,1,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,06/10/2020,England,98,1,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,07/10/2020,England,91,2,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,08/10/2020,England,118,1,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,09/10/2020,England,91,1,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,10/10/2020,England,52,1,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,11/10/2020,England,64,2,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,12/10/2020,England,147,2,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,13/10/2020,England,75,2,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,14/10/2020,England,97,0,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,15/10/2020,England,115,3,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,16/10/2020,England,95,2,6,6,6,6,6,6,6,6,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,17/10/2020,England,72,1,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,18/10/2020,England,87,1,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,19/10/2020,England,172,1,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,20/10/2020,England,161,2,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,21/10/2020,England,180,3,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,22/10/2020,England,121,2,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,23/10/2020,England,170,1,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,24/10/2020,England,101,1,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,1,1,1
+Redbridge and Waltham Forest,25/10/2020,England,81,2,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,1,1,1
+Redbridge and Waltham Forest,26/10/2020,England,193,2,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,1,1,1
+Redbridge and Waltham Forest,27/10/2020,England,149,0,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,1,1,1
+Redbridge and Waltham Forest,28/10/2020,England,139,2,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,1,1,1
+Redbridge and Waltham Forest,29/10/2020,England,183,2,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,1,1,1
+Redbridge and Waltham Forest,30/10/2020,England,181,2,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,1,1,1
+Redbridge and Waltham Forest,31/10/2020,England,119,2,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,1,1,1
+Redbridge and Waltham Forest,01/11/2020,England,103,2,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,1,1,1
+Redbridge and Waltham Forest,02/11/2020,England,251,0,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,03/11/2020,England,165,1,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,04/11/2020,England,165,0,6,6,6,1,6,6,6,1,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,05/11/2020,England,161,2,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,1
+Redbridge and Waltham Forest,06/11/2020,England,165,2,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,1
+Redbridge and Waltham Forest,07/11/2020,England,143,2,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,1
+Redbridge and Waltham Forest,08/11/2020,England,160,3,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,1
+Redbridge and Waltham Forest,09/11/2020,England,265,3,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,1
+Redbridge and Waltham Forest,10/11/2020,England,233,1,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,1
+Redbridge and Waltham Forest,11/11/2020,England,223,0,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,1
+Redbridge and Waltham Forest,12/11/2020,England,246,4,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,1
+Redbridge and Waltham Forest,13/11/2020,England,215,0,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,1
+Redbridge and Waltham Forest,14/11/2020,England,155,2,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,1
+Redbridge and Waltham Forest,15/11/2020,England,150,2,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,1
+Redbridge and Waltham Forest,16/11/2020,England,262,8,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,1
+Redbridge and Waltham Forest,17/11/2020,England,224,4,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,1
+Redbridge and Waltham Forest,18/11/2020,England,242,2,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,1
+Redbridge and Waltham Forest,19/11/2020,England,203,3,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,1
+Redbridge and Waltham Forest,20/11/2020,England,243,3,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,1
+Redbridge and Waltham Forest,21/11/2020,England,175,0,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,1
+Redbridge and Waltham Forest,22/11/2020,England,172,2,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,1
+Redbridge and Waltham Forest,23/11/2020,England,248,1,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,1
+Redbridge and Waltham Forest,24/11/2020,England,215,2,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,1
+Redbridge and Waltham Forest,25/11/2020,England,244,8,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,1
+Redbridge and Waltham Forest,26/11/2020,England,203,1,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,1
+Redbridge and Waltham Forest,27/11/2020,England,256,2,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,1
+Redbridge and Waltham Forest,28/11/2020,England,174,0,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,1
+Redbridge and Waltham Forest,29/11/2020,England,197,3,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,1
+Redbridge and Waltham Forest,30/11/2020,England,269,6,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,1
+Redbridge and Waltham Forest,01/12/2020,England,251,1,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,0,0,1
+Redbridge and Waltham Forest,02/12/2020,England,276,3,6,1,6,1,6,1,6,1,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,03/12/2020,England,244,6,6,1,6,1,6,1,6,1,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,04/12/2020,England,318,4,6,1,6,1,6,1,6,1,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,05/12/2020,England,261,1,6,1,6,1,6,1,6,1,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,06/12/2020,England,255,2,6,1,6,1,6,1,6,1,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,07/12/2020,England,407,2,6,1,6,1,6,1,6,1,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,08/12/2020,England,371,8,6,1,6,1,6,1,6,1,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,09/12/2020,England,451,2,6,1,6,1,6,1,6,1,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,10/12/2020,England,437,5,6,1,6,1,6,1,6,1,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,11/12/2020,England,487,7,6,1,6,1,6,1,6,1,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,12/12/2020,England,514,4,6,1,6,1,6,1,6,1,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,13/12/2020,England,622,3,6,1,6,1,6,1,6,1,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,14/12/2020,England,798,10,6,1,6,1,6,1,6,1,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,15/12/2020,England,892,8,6,1,6,1,6,1,6,1,2,1,0,0,0,0,0,0,0,1
+Redbridge and Waltham Forest,16/12/2020,England,937,3,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,0,0,1
+Redbridge and Waltham Forest,17/12/2020,England,926,6,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,0,0,1
+Redbridge and Waltham Forest,18/12/2020,England,996,8,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,0,0,1
+Redbridge and Waltham Forest,19/12/2020,England,731,4,6,1,1,1,6,1,1,1,2,1,1,1,0,0,0,1,1,1
+Redbridge and Waltham Forest,20/12/2020,England,832,5,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Redbridge and Waltham Forest,21/12/2020,England,1011,2,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Redbridge and Waltham Forest,22/12/2020,England,951,9,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Redbridge and Waltham Forest,23/12/2020,England,1029,4,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Redbridge and Waltham Forest,24/12/2020,England,777,6,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Redbridge and Waltham Forest,25/12/2020,England,363,9,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Redbridge and Waltham Forest,26/12/2020,England,1008,12,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Redbridge and Waltham Forest,27/12/2020,England,1109,7,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Redbridge and Waltham Forest,28/12/2020,England,880,16,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Redbridge and Waltham Forest,29/12/2020,England,1602,11,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Redbridge and Waltham Forest,30/12/2020,England,1387,16,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Redbridge and Waltham Forest,31/12/2020,England,1016,13,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Redbridge and Waltham Forest,01/01/2021,England,577,18,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Redbridge and Waltham Forest,02/01/2021,England,1187,13,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Redbridge and Waltham Forest,03/01/2021,England,1176,14,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Redbridge and Waltham Forest,04/01/2021,England,1371,18,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Redbridge and Waltham Forest,05/01/2021,England,1058,18,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Redbridge and Waltham Forest,06/01/2021,England,1035,17,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Redbridge and Waltham Forest,07/01/2021,England,932,11,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Redbridge and Waltham Forest,08/01/2021,England,788,12,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Redbridge and Waltham Forest,09/01/2021,England,617,9,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Redbridge and Waltham Forest,10/01/2021,England,529,11,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Redbridge and Waltham Forest,11/01/2021,England,813,14,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Redbridge and Waltham Forest,12/01/2021,England,717,11,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Redbridge and Waltham Forest,13/01/2021,England,634,17,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Redbridge and Waltham Forest,14/01/2021,England,635,12,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Redbridge and Waltham Forest,15/01/2021,England,614,17,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Redbridge and Waltham Forest,16/01/2021,England,484,18,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Redbridge and Waltham Forest,17/01/2021,England,366,17,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Redbridge and Waltham Forest,18/01/2021,England,581,14,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Redbridge and Waltham Forest,19/01/2021,England,499,10,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Redbridge and Waltham Forest,20/01/2021,England,452,12,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Redbridge and Waltham Forest,21/01/2021,England,368,6,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1
+Redbridge and Waltham Forest,22/01/2021,England,91,3,2,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1

@@ -1,0 +1,466 @@
+date,confirm,region
+2020-08-01,2,Lincolnshire
+2020-08-02,3,Lincolnshire
+2020-08-03,7,Lincolnshire
+2020-08-04,8,Lincolnshire
+2020-08-05,9,Lincolnshire
+2020-08-06,5,Lincolnshire
+2020-08-07,6,Lincolnshire
+2020-08-08,3,Lincolnshire
+2020-08-09,3,Lincolnshire
+2020-08-10,6,Lincolnshire
+2020-08-11,2,Lincolnshire
+2020-08-12,10,Lincolnshire
+2020-08-13,9,Lincolnshire
+2020-08-14,5,Lincolnshire
+2020-08-15,3,Lincolnshire
+2020-08-16,1,Lincolnshire
+2020-08-17,10,Lincolnshire
+2020-08-18,3,Lincolnshire
+2020-08-19,6,Lincolnshire
+2020-08-20,2,Lincolnshire
+2020-08-21,3,Lincolnshire
+2020-08-22,0,Lincolnshire
+2020-08-23,2,Lincolnshire
+2020-08-24,2,Lincolnshire
+2020-08-25,3,Lincolnshire
+2020-08-26,4,Lincolnshire
+2020-08-27,9,Lincolnshire
+2020-08-28,10,Lincolnshire
+2020-08-29,2,Lincolnshire
+2020-08-30,5,Lincolnshire
+2020-08-31,12,Lincolnshire
+2020-09-01,7,Lincolnshire
+2020-09-02,32,Lincolnshire
+2020-09-03,31,Lincolnshire
+2020-09-04,20,Lincolnshire
+2020-09-05,17,Lincolnshire
+2020-09-06,9,Lincolnshire
+2020-09-07,21,Lincolnshire
+2020-09-08,43,Lincolnshire
+2020-09-09,22,Lincolnshire
+2020-09-10,15,Lincolnshire
+2020-09-11,16,Lincolnshire
+2020-09-12,10,Lincolnshire
+2020-09-13,12,Lincolnshire
+2020-09-14,19,Lincolnshire
+2020-09-15,12,Lincolnshire
+2020-09-16,31,Lincolnshire
+2020-09-17,21,Lincolnshire
+2020-09-18,19,Lincolnshire
+2020-09-19,26,Lincolnshire
+2020-09-20,22,Lincolnshire
+2020-09-21,18,Lincolnshire
+2020-09-22,22,Lincolnshire
+2020-09-23,29,Lincolnshire
+2020-09-24,25,Lincolnshire
+2020-09-25,38,Lincolnshire
+2020-09-26,23,Lincolnshire
+2020-09-27,26,Lincolnshire
+2020-09-28,43,Lincolnshire
+2020-09-29,47,Lincolnshire
+2020-09-30,56,Lincolnshire
+2020-10-01,68,Lincolnshire
+2020-10-02,80,Lincolnshire
+2020-10-03,66,Lincolnshire
+2020-10-04,50,Lincolnshire
+2020-10-05,64,Lincolnshire
+2020-10-06,76,Lincolnshire
+2020-10-07,100,Lincolnshire
+2020-10-08,105,Lincolnshire
+2020-10-09,119,Lincolnshire
+2020-10-10,84,Lincolnshire
+2020-10-11,73,Lincolnshire
+2020-10-12,112,Lincolnshire
+2020-10-13,144,Lincolnshire
+2020-10-14,121,Lincolnshire
+2020-10-15,123,Lincolnshire
+2020-10-16,92,Lincolnshire
+2020-10-17,103,Lincolnshire
+2020-10-18,86,Lincolnshire
+2020-10-19,247,Lincolnshire
+2020-10-20,213,Lincolnshire
+2020-10-21,197,Lincolnshire
+2020-10-22,252,Lincolnshire
+2020-10-23,194,Lincolnshire
+2020-10-24,182,Lincolnshire
+2020-10-25,154,Lincolnshire
+2020-10-26,275,Lincolnshire
+2020-10-27,194,Lincolnshire
+2020-10-28,221,Lincolnshire
+2020-10-29,240,Lincolnshire
+2020-10-30,234,Lincolnshire
+2020-10-31,169,Lincolnshire
+2020-11-01,124,Lincolnshire
+2020-11-02,389,Lincolnshire
+2020-11-03,284,Lincolnshire
+2020-11-04,305,Lincolnshire
+2020-11-05,302,Lincolnshire
+2020-11-06,353,Lincolnshire
+2020-11-07,229,Lincolnshire
+2020-11-08,330,Lincolnshire
+2020-11-09,503,Lincolnshire
+2020-11-10,473,Lincolnshire
+2020-11-11,451,Lincolnshire
+2020-11-12,379,Lincolnshire
+2020-11-13,387,Lincolnshire
+2020-11-14,245,Lincolnshire
+2020-11-15,218,Lincolnshire
+2020-11-16,483,Lincolnshire
+2020-11-17,402,Lincolnshire
+2020-11-18,284,Lincolnshire
+2020-11-19,313,Lincolnshire
+2020-11-20,258,Lincolnshire
+2020-11-21,181,Lincolnshire
+2020-11-22,164,Lincolnshire
+2020-11-23,394,Lincolnshire
+2020-11-24,370,Lincolnshire
+2020-11-25,287,Lincolnshire
+2020-11-26,250,Lincolnshire
+2020-11-27,302,Lincolnshire
+2020-11-28,224,Lincolnshire
+2020-11-29,169,Lincolnshire
+2020-11-30,346,Lincolnshire
+2020-12-01,295,Lincolnshire
+2020-12-02,323,Lincolnshire
+2020-12-03,246,Lincolnshire
+2020-12-04,267,Lincolnshire
+2020-12-05,183,Lincolnshire
+2020-12-06,181,Lincolnshire
+2020-12-07,422,Lincolnshire
+2020-12-08,298,Lincolnshire
+2020-12-09,310,Lincolnshire
+2020-12-10,294,Lincolnshire
+2020-12-11,325,Lincolnshire
+2020-12-12,183,Lincolnshire
+2020-12-13,171,Lincolnshire
+2020-12-14,430,Lincolnshire
+2020-12-15,301,Lincolnshire
+2020-12-16,314,Lincolnshire
+2020-12-17,263,Lincolnshire
+2020-12-18,287,Lincolnshire
+2020-12-19,182,Lincolnshire
+2020-12-20,328,Lincolnshire
+2020-12-21,383,Lincolnshire
+2020-12-22,351,Lincolnshire
+2020-12-23,344,Lincolnshire
+2020-12-24,201,Lincolnshire
+2020-12-25,118,Lincolnshire
+2020-12-26,242,Lincolnshire
+2020-12-27,321,Lincolnshire
+2020-12-28,273,Lincolnshire
+2020-12-29,515,Lincolnshire
+2020-12-30,410,Lincolnshire
+2020-12-31,275,Lincolnshire
+2021-01-01,175,Lincolnshire
+2021-01-02,375,Lincolnshire
+2020-08-01,14,Greater Manchester South West
+2020-08-02,15,Greater Manchester South West
+2020-08-03,24,Greater Manchester South West
+2020-08-04,17,Greater Manchester South West
+2020-08-05,19,Greater Manchester South West
+2020-08-06,30,Greater Manchester South West
+2020-08-07,10,Greater Manchester South West
+2020-08-08,14,Greater Manchester South West
+2020-08-09,8,Greater Manchester South West
+2020-08-10,43,Greater Manchester South West
+2020-08-11,20,Greater Manchester South West
+2020-08-12,26,Greater Manchester South West
+2020-08-13,25,Greater Manchester South West
+2020-08-14,24,Greater Manchester South West
+2020-08-15,13,Greater Manchester South West
+2020-08-16,6,Greater Manchester South West
+2020-08-17,25,Greater Manchester South West
+2020-08-18,14,Greater Manchester South West
+2020-08-19,24,Greater Manchester South West
+2020-08-20,18,Greater Manchester South West
+2020-08-21,18,Greater Manchester South West
+2020-08-22,12,Greater Manchester South West
+2020-08-23,8,Greater Manchester South West
+2020-08-24,26,Greater Manchester South West
+2020-08-25,30,Greater Manchester South West
+2020-08-26,29,Greater Manchester South West
+2020-08-27,30,Greater Manchester South West
+2020-08-28,53,Greater Manchester South West
+2020-08-29,13,Greater Manchester South West
+2020-08-30,20,Greater Manchester South West
+2020-08-31,19,Greater Manchester South West
+2020-09-01,39,Greater Manchester South West
+2020-09-02,48,Greater Manchester South West
+2020-09-03,46,Greater Manchester South West
+2020-09-04,51,Greater Manchester South West
+2020-09-05,29,Greater Manchester South West
+2020-09-06,38,Greater Manchester South West
+2020-09-07,53,Greater Manchester South West
+2020-09-08,55,Greater Manchester South West
+2020-09-09,64,Greater Manchester South West
+2020-09-10,51,Greater Manchester South West
+2020-09-11,48,Greater Manchester South West
+2020-09-12,50,Greater Manchester South West
+2020-09-13,41,Greater Manchester South West
+2020-09-14,59,Greater Manchester South West
+2020-09-15,65,Greater Manchester South West
+2020-09-16,100,Greater Manchester South West
+2020-09-17,68,Greater Manchester South West
+2020-09-18,87,Greater Manchester South West
+2020-09-19,84,Greater Manchester South West
+2020-09-20,100,Greater Manchester South West
+2020-09-21,93,Greater Manchester South West
+2020-09-22,107,Greater Manchester South West
+2020-09-23,128,Greater Manchester South West
+2020-09-24,158,Greater Manchester South West
+2020-09-25,144,Greater Manchester South West
+2020-09-26,124,Greater Manchester South West
+2020-09-27,143,Greater Manchester South West
+2020-09-28,171,Greater Manchester South West
+2020-09-29,185,Greater Manchester South West
+2020-09-30,213,Greater Manchester South West
+2020-10-01,309,Greater Manchester South West
+2020-10-02,225,Greater Manchester South West
+2020-10-03,216,Greater Manchester South West
+2020-10-04,200,Greater Manchester South West
+2020-10-05,312,Greater Manchester South West
+2020-10-06,319,Greater Manchester South West
+2020-10-07,261,Greater Manchester South West
+2020-10-08,297,Greater Manchester South West
+2020-10-09,235,Greater Manchester South West
+2020-10-10,215,Greater Manchester South West
+2020-10-11,171,Greater Manchester South West
+2020-10-12,341,Greater Manchester South West
+2020-10-13,290,Greater Manchester South West
+2020-10-14,314,Greater Manchester South West
+2020-10-15,303,Greater Manchester South West
+2020-10-16,245,Greater Manchester South West
+2020-10-17,304,Greater Manchester South West
+2020-10-18,265,Greater Manchester South West
+2020-10-19,456,Greater Manchester South West
+2020-10-20,461,Greater Manchester South West
+2020-10-21,437,Greater Manchester South West
+2020-10-22,392,Greater Manchester South West
+2020-10-23,382,Greater Manchester South West
+2020-10-24,251,Greater Manchester South West
+2020-10-25,257,Greater Manchester South West
+2020-10-26,470,Greater Manchester South West
+2020-10-27,394,Greater Manchester South West
+2020-10-28,423,Greater Manchester South West
+2020-10-29,395,Greater Manchester South West
+2020-10-30,358,Greater Manchester South West
+2020-10-31,267,Greater Manchester South West
+2020-11-01,271,Greater Manchester South West
+2020-11-02,513,Greater Manchester South West
+2020-11-03,366,Greater Manchester South West
+2020-11-04,360,Greater Manchester South West
+2020-11-05,320,Greater Manchester South West
+2020-11-06,322,Greater Manchester South West
+2020-11-07,200,Greater Manchester South West
+2020-11-08,276,Greater Manchester South West
+2020-11-09,357,Greater Manchester South West
+2020-11-10,325,Greater Manchester South West
+2020-11-11,301,Greater Manchester South West
+2020-11-12,286,Greater Manchester South West
+2020-11-13,257,Greater Manchester South West
+2020-11-14,174,Greater Manchester South West
+2020-11-15,145,Greater Manchester South West
+2020-11-16,248,Greater Manchester South West
+2020-11-17,197,Greater Manchester South West
+2020-11-18,169,Greater Manchester South West
+2020-11-19,130,Greater Manchester South West
+2020-11-20,113,Greater Manchester South West
+2020-11-21,85,Greater Manchester South West
+2020-11-22,96,Greater Manchester South West
+2020-11-23,130,Greater Manchester South West
+2020-11-24,109,Greater Manchester South West
+2020-11-25,101,Greater Manchester South West
+2020-11-26,98,Greater Manchester South West
+2020-11-27,81,Greater Manchester South West
+2020-11-28,78,Greater Manchester South West
+2020-11-29,61,Greater Manchester South West
+2020-11-30,99,Greater Manchester South West
+2020-12-01,88,Greater Manchester South West
+2020-12-02,84,Greater Manchester South West
+2020-12-03,77,Greater Manchester South West
+2020-12-04,76,Greater Manchester South West
+2020-12-05,60,Greater Manchester South West
+2020-12-06,68,Greater Manchester South West
+2020-12-07,108,Greater Manchester South West
+2020-12-08,89,Greater Manchester South West
+2020-12-09,104,Greater Manchester South West
+2020-12-10,106,Greater Manchester South West
+2020-12-11,106,Greater Manchester South West
+2020-12-12,80,Greater Manchester South West
+2020-12-13,91,Greater Manchester South West
+2020-12-14,127,Greater Manchester South West
+2020-12-15,146,Greater Manchester South West
+2020-12-16,126,Greater Manchester South West
+2020-12-17,126,Greater Manchester South West
+2020-12-18,167,Greater Manchester South West
+2020-12-19,109,Greater Manchester South West
+2020-12-20,121,Greater Manchester South West
+2020-12-21,222,Greater Manchester South West
+2020-12-22,216,Greater Manchester South West
+2020-12-23,224,Greater Manchester South West
+2020-12-24,123,Greater Manchester South West
+2020-12-25,59,Greater Manchester South West
+2020-12-26,155,Greater Manchester South West
+2020-12-27,166,Greater Manchester South West
+2020-12-28,202,Greater Manchester South West
+2020-12-29,377,Greater Manchester South West
+2020-12-30,355,Greater Manchester South West
+2020-12-31,242,Greater Manchester South West
+2021-01-01,149,Greater Manchester South West
+2021-01-02,334,Greater Manchester South West
+2020-08-01,2,Redbridge and Waltham Forest
+2020-08-02,7,Redbridge and Waltham Forest
+2020-08-03,5,Redbridge and Waltham Forest
+2020-08-04,8,Redbridge and Waltham Forest
+2020-08-05,7,Redbridge and Waltham Forest
+2020-08-06,7,Redbridge and Waltham Forest
+2020-08-07,18,Redbridge and Waltham Forest
+2020-08-08,7,Redbridge and Waltham Forest
+2020-08-09,6,Redbridge and Waltham Forest
+2020-08-10,12,Redbridge and Waltham Forest
+2020-08-11,15,Redbridge and Waltham Forest
+2020-08-12,11,Redbridge and Waltham Forest
+2020-08-13,5,Redbridge and Waltham Forest
+2020-08-14,8,Redbridge and Waltham Forest
+2020-08-15,9,Redbridge and Waltham Forest
+2020-08-16,3,Redbridge and Waltham Forest
+2020-08-17,12,Redbridge and Waltham Forest
+2020-08-18,11,Redbridge and Waltham Forest
+2020-08-19,2,Redbridge and Waltham Forest
+2020-08-20,6,Redbridge and Waltham Forest
+2020-08-21,10,Redbridge and Waltham Forest
+2020-08-22,7,Redbridge and Waltham Forest
+2020-08-23,3,Redbridge and Waltham Forest
+2020-08-24,11,Redbridge and Waltham Forest
+2020-08-25,7,Redbridge and Waltham Forest
+2020-08-26,14,Redbridge and Waltham Forest
+2020-08-27,20,Redbridge and Waltham Forest
+2020-08-28,15,Redbridge and Waltham Forest
+2020-08-29,3,Redbridge and Waltham Forest
+2020-08-30,10,Redbridge and Waltham Forest
+2020-08-31,18,Redbridge and Waltham Forest
+2020-09-01,21,Redbridge and Waltham Forest
+2020-09-02,25,Redbridge and Waltham Forest
+2020-09-03,39,Redbridge and Waltham Forest
+2020-09-04,24,Redbridge and Waltham Forest
+2020-09-05,17,Redbridge and Waltham Forest
+2020-09-06,14,Redbridge and Waltham Forest
+2020-09-07,33,Redbridge and Waltham Forest
+2020-09-08,19,Redbridge and Waltham Forest
+2020-09-09,26,Redbridge and Waltham Forest
+2020-09-10,31,Redbridge and Waltham Forest
+2020-09-11,47,Redbridge and Waltham Forest
+2020-09-12,23,Redbridge and Waltham Forest
+2020-09-13,13,Redbridge and Waltham Forest
+2020-09-14,28,Redbridge and Waltham Forest
+2020-09-15,41,Redbridge and Waltham Forest
+2020-09-16,31,Redbridge and Waltham Forest
+2020-09-17,31,Redbridge and Waltham Forest
+2020-09-18,46,Redbridge and Waltham Forest
+2020-09-19,54,Redbridge and Waltham Forest
+2020-09-20,42,Redbridge and Waltham Forest
+2020-09-21,37,Redbridge and Waltham Forest
+2020-09-22,45,Redbridge and Waltham Forest
+2020-09-23,55,Redbridge and Waltham Forest
+2020-09-24,72,Redbridge and Waltham Forest
+2020-09-25,46,Redbridge and Waltham Forest
+2020-09-26,44,Redbridge and Waltham Forest
+2020-09-27,48,Redbridge and Waltham Forest
+2020-09-28,62,Redbridge and Waltham Forest
+2020-09-29,60,Redbridge and Waltham Forest
+2020-09-30,93,Redbridge and Waltham Forest
+2020-10-01,87,Redbridge and Waltham Forest
+2020-10-02,89,Redbridge and Waltham Forest
+2020-10-03,85,Redbridge and Waltham Forest
+2020-10-04,74,Redbridge and Waltham Forest
+2020-10-05,90,Redbridge and Waltham Forest
+2020-10-06,98,Redbridge and Waltham Forest
+2020-10-07,91,Redbridge and Waltham Forest
+2020-10-08,118,Redbridge and Waltham Forest
+2020-10-09,91,Redbridge and Waltham Forest
+2020-10-10,52,Redbridge and Waltham Forest
+2020-10-11,64,Redbridge and Waltham Forest
+2020-10-12,147,Redbridge and Waltham Forest
+2020-10-13,75,Redbridge and Waltham Forest
+2020-10-14,97,Redbridge and Waltham Forest
+2020-10-15,115,Redbridge and Waltham Forest
+2020-10-16,95,Redbridge and Waltham Forest
+2020-10-17,72,Redbridge and Waltham Forest
+2020-10-18,87,Redbridge and Waltham Forest
+2020-10-19,172,Redbridge and Waltham Forest
+2020-10-20,161,Redbridge and Waltham Forest
+2020-10-21,180,Redbridge and Waltham Forest
+2020-10-22,121,Redbridge and Waltham Forest
+2020-10-23,170,Redbridge and Waltham Forest
+2020-10-24,101,Redbridge and Waltham Forest
+2020-10-25,81,Redbridge and Waltham Forest
+2020-10-26,193,Redbridge and Waltham Forest
+2020-10-27,149,Redbridge and Waltham Forest
+2020-10-28,139,Redbridge and Waltham Forest
+2020-10-29,183,Redbridge and Waltham Forest
+2020-10-30,181,Redbridge and Waltham Forest
+2020-10-31,119,Redbridge and Waltham Forest
+2020-11-01,103,Redbridge and Waltham Forest
+2020-11-02,251,Redbridge and Waltham Forest
+2020-11-03,165,Redbridge and Waltham Forest
+2020-11-04,165,Redbridge and Waltham Forest
+2020-11-05,161,Redbridge and Waltham Forest
+2020-11-06,165,Redbridge and Waltham Forest
+2020-11-07,143,Redbridge and Waltham Forest
+2020-11-08,160,Redbridge and Waltham Forest
+2020-11-09,265,Redbridge and Waltham Forest
+2020-11-10,233,Redbridge and Waltham Forest
+2020-11-11,223,Redbridge and Waltham Forest
+2020-11-12,246,Redbridge and Waltham Forest
+2020-11-13,215,Redbridge and Waltham Forest
+2020-11-14,155,Redbridge and Waltham Forest
+2020-11-15,150,Redbridge and Waltham Forest
+2020-11-16,262,Redbridge and Waltham Forest
+2020-11-17,224,Redbridge and Waltham Forest
+2020-11-18,242,Redbridge and Waltham Forest
+2020-11-19,203,Redbridge and Waltham Forest
+2020-11-20,243,Redbridge and Waltham Forest
+2020-11-21,175,Redbridge and Waltham Forest
+2020-11-22,172,Redbridge and Waltham Forest
+2020-11-23,248,Redbridge and Waltham Forest
+2020-11-24,215,Redbridge and Waltham Forest
+2020-11-25,244,Redbridge and Waltham Forest
+2020-11-26,203,Redbridge and Waltham Forest
+2020-11-27,256,Redbridge and Waltham Forest
+2020-11-28,174,Redbridge and Waltham Forest
+2020-11-29,197,Redbridge and Waltham Forest
+2020-11-30,269,Redbridge and Waltham Forest
+2020-12-01,251,Redbridge and Waltham Forest
+2020-12-02,276,Redbridge and Waltham Forest
+2020-12-03,244,Redbridge and Waltham Forest
+2020-12-04,318,Redbridge and Waltham Forest
+2020-12-05,261,Redbridge and Waltham Forest
+2020-12-06,255,Redbridge and Waltham Forest
+2020-12-07,407,Redbridge and Waltham Forest
+2020-12-08,371,Redbridge and Waltham Forest
+2020-12-09,451,Redbridge and Waltham Forest
+2020-12-10,437,Redbridge and Waltham Forest
+2020-12-11,487,Redbridge and Waltham Forest
+2020-12-12,514,Redbridge and Waltham Forest
+2020-12-13,622,Redbridge and Waltham Forest
+2020-12-14,798,Redbridge and Waltham Forest
+2020-12-15,892,Redbridge and Waltham Forest
+2020-12-16,937,Redbridge and Waltham Forest
+2020-12-17,926,Redbridge and Waltham Forest
+2020-12-18,996,Redbridge and Waltham Forest
+2020-12-19,731,Redbridge and Waltham Forest
+2020-12-20,832,Redbridge and Waltham Forest
+2020-12-21,1011,Redbridge and Waltham Forest
+2020-12-22,951,Redbridge and Waltham Forest
+2020-12-23,1029,Redbridge and Waltham Forest
+2020-12-24,777,Redbridge and Waltham Forest
+2020-12-25,363,Redbridge and Waltham Forest
+2020-12-26,1008,Redbridge and Waltham Forest
+2020-12-27,1109,Redbridge and Waltham Forest
+2020-12-28,880,Redbridge and Waltham Forest
+2020-12-29,1602,Redbridge and Waltham Forest
+2020-12-30,1387,Redbridge and Waltham Forest
+2020-12-31,1016,Redbridge and Waltham Forest
+2021-01-01,577,Redbridge and Waltham Forest
+2021-01-02,1187,Redbridge and Waltham Forest

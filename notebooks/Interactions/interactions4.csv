@@ -1,0 +1,273 @@
+Interacting Pair,First CM,Second CM,Mean Reduction,Standard Deviation,Interaction Seen
+"[0, 1]",Night Clubs Closed,Gastronomy Closed,0.03709,0.03489,True
+"[2, 3]",Leisure Venues Closed,Retail Closed,0.07394,0.05169,True
+"[4, 5]",Curfew,Primary Schools Closed,-0.03846,0.02415,True
+"[6, 7]",Secondary Schools Closed,Universities Away,0.06801,0.01382,True
+"[8, 9]",Public Indoor Gathering Person Limit - 1,Public Indoor Gathering Person Limit - 2,-0.29053,0.18912,True
+"[10, 11]",Public Indoor Gathering Person Limit - 10,Public Indoor Gathering Person Limit - 30,0.00599,0.02124,False
+"[12, 13]",Extra Public Indoor Household Limit,Private Indoor Gathering Person Limit - 1,0.4352,0.01484,True
+"[14, 15]",Private Indoor Gathering Person Limit - 2,Private Indoor Gathering Person Limit - 10,-0.11587,0.08339,True
+"[0, 2]",Night Clubs Closed,Leisure Venues Closed,0.05083,0.03297,True
+"[1, 3]",Gastronomy Closed,Retail Closed,0.06753,0.04715,True
+"[4, 6]",Curfew,Secondary Schools Closed,0.21404,0.02043,True
+"[5, 7]",Primary Schools Closed,Universities Away,0.09135,0.01149,True
+"[8, 10]",Public Indoor Gathering Person Limit - 1,Public Indoor Gathering Person Limit - 10,-0.275,0.18028,True
+"[9, 11]",Public Indoor Gathering Person Limit - 2,Public Indoor Gathering Person Limit - 30,0.00764,0.02192,False
+"[12, 14]",Extra Public Indoor Household Limit,Private Indoor Gathering Person Limit - 2,0.40842,0.01805,True
+"[13, 15]",Private Indoor Gathering Person Limit - 1,Private Indoor Gathering Person Limit - 10,0.18081,0.10084,True
+"[0, 3]",Night Clubs Closed,Retail Closed,0.02576,0.02872,False
+"[1, 2]",Gastronomy Closed,Leisure Venues Closed,0.23135,0.01234,True
+"[4, 7]",Curfew,Universities Away,-0.02292,0.03702,False
+"[5, 6]",Primary Schools Closed,Secondary Schools Closed,0.02402,0.02629,False
+"[8, 11]",Public Indoor Gathering Person Limit - 1,Public Indoor Gathering Person Limit - 30,-0.10145,0.06199,True
+"[9, 10]",Public Indoor Gathering Person Limit - 2,Public Indoor Gathering Person Limit - 10,0.02189,0.03172,False
+"[12, 15]",Extra Public Indoor Household Limit,Private Indoor Gathering Person Limit - 10,0.22478,0.04725,True
+"[13, 14]",Private Indoor Gathering Person Limit - 1,Private Indoor Gathering Person Limit - 2,0.06316,0.04416,True
+"[0, 4]",Night Clubs Closed,Curfew,0.09573,0.06167,True
+"[1, 5]",Gastronomy Closed,Primary Schools Closed,0.10477,0.01734,True
+"[2, 6]",Leisure Venues Closed,Secondary Schools Closed,-0.28667,0.03073,True
+"[3, 7]",Retail Closed,Universities Away,-0.08869,0.01657,True
+"[8, 12]",Public Indoor Gathering Person Limit - 1,Extra Public Indoor Household Limit,-0.16259,0.10735,True
+"[9, 13]",Public Indoor Gathering Person Limit - 2,Private Indoor Gathering Person Limit - 1,0.10497,0.03242,True
+"[10, 14]",Public Indoor Gathering Person Limit - 10,Private Indoor Gathering Person Limit - 2,0.30558,0.03093,True
+"[11, 15]",Public Indoor Gathering Person Limit - 30,Private Indoor Gathering Person Limit - 10,0.25575,0.01586,True
+"[0, 5]",Night Clubs Closed,Primary Schools Closed,0.1764,0.01052,True
+"[1, 4]",Gastronomy Closed,Curfew,0.10987,0.01387,True
+"[2, 7]",Leisure Venues Closed,Universities Away,-0.13961,0.01118,True
+"[3, 6]",Retail Closed,Secondary Schools Closed,-0.29311,0.02589,True
+"[8, 13]",Public Indoor Gathering Person Limit - 1,Private Indoor Gathering Person Limit - 1,0.29016,0.01963,True
+"[9, 12]",Public Indoor Gathering Person Limit - 2,Extra Public Indoor Household Limit,0.05763,0.04205,True
+"[10, 15]",Public Indoor Gathering Person Limit - 10,Private Indoor Gathering Person Limit - 10,0.16114,0.01526,True
+"[11, 14]",Public Indoor Gathering Person Limit - 30,Private Indoor Gathering Person Limit - 2,-0.08654,0.06096,True
+"[0, 6]",Night Clubs Closed,Secondary Schools Closed,0.17931,0.01205,True
+"[1, 7]",Gastronomy Closed,Universities Away,-0.05082,0.00819,True
+"[2, 4]",Leisure Venues Closed,Curfew,0.19983,0.04694,True
+"[3, 5]",Retail Closed,Primary Schools Closed,-0.14308,0.02908,True
+"[8, 14]",Public Indoor Gathering Person Limit - 1,Private Indoor Gathering Person Limit - 2,0.39396,0.01946,True
+"[9, 15]",Public Indoor Gathering Person Limit - 2,Private Indoor Gathering Person Limit - 10,0.06643,0.05368,True
+"[10, 12]",Public Indoor Gathering Person Limit - 10,Extra Public Indoor Household Limit,-0.03861,0.0412,False
+"[11, 13]",Public Indoor Gathering Person Limit - 30,Private Indoor Gathering Person Limit - 1,-0.05113,0.04258,True
+"[0, 7]",Night Clubs Closed,Universities Away,-0.13796,0.01295,True
+"[1, 6]",Gastronomy Closed,Secondary Schools Closed,0.09526,0.01317,True
+"[2, 5]",Leisure Venues Closed,Primary Schools Closed,-0.18382,0.02368,True
+"[3, 4]",Retail Closed,Curfew,0.08492,0.02002,True
+"[8, 15]",Public Indoor Gathering Person Limit - 1,Private Indoor Gathering Person Limit - 10,-0.2067,0.14368,True
+"[9, 14]",Public Indoor Gathering Person Limit - 2,Private Indoor Gathering Person Limit - 2,0.10628,0.02745,True
+"[10, 13]",Public Indoor Gathering Person Limit - 10,Private Indoor Gathering Person Limit - 1,0.39858,0.02629,True
+"[11, 12]",Public Indoor Gathering Person Limit - 30,Extra Public Indoor Household Limit,-0.05991,0.04825,True
+"[0, 8]",Night Clubs Closed,Public Indoor Gathering Person Limit - 1,-0.14348,0.09433,True
+"[1, 9]",Gastronomy Closed,Public Indoor Gathering Person Limit - 2,0.04815,0.01547,True
+"[2, 10]",Leisure Venues Closed,Public Indoor Gathering Person Limit - 10,0.35578,0.02411,True
+"[3, 11]",Retail Closed,Public Indoor Gathering Person Limit - 30,0.08226,0.04906,True
+"[4, 12]",Curfew,Extra Public Indoor Household Limit,0.14789,0.03158,True
+"[5, 13]",Primary Schools Closed,Private Indoor Gathering Person Limit - 1,-0.48029,0.04655,True
+"[6, 14]",Secondary Schools Closed,Private Indoor Gathering Person Limit - 2,0.36112,0.02155,True
+"[7, 15]",Universities Away,Private Indoor Gathering Person Limit - 10,-0.19634,0.00982,True
+"[0, 9]",Night Clubs Closed,Public Indoor Gathering Person Limit - 2,0.01083,0.02469,False
+"[1, 8]",Gastronomy Closed,Public Indoor Gathering Person Limit - 1,0.02112,0.01386,True
+"[2, 11]",Leisure Venues Closed,Public Indoor Gathering Person Limit - 30,0.05265,0.03771,True
+"[3, 10]",Retail Closed,Public Indoor Gathering Person Limit - 10,0.07009,0.04668,True
+"[4, 13]",Curfew,Private Indoor Gathering Person Limit - 1,0.25464,0.02537,True
+"[5, 12]",Primary Schools Closed,Extra Public Indoor Household Limit,-0.51156,0.03145,True
+"[6, 15]",Secondary Schools Closed,Private Indoor Gathering Person Limit - 10,0.19473,0.01445,True
+"[7, 14]",Universities Away,Private Indoor Gathering Person Limit - 2,-0.32139,0.01905,True
+"[0, 10]",Night Clubs Closed,Public Indoor Gathering Person Limit - 10,-0.0151,0.02139,False
+"[1, 11]",Gastronomy Closed,Public Indoor Gathering Person Limit - 30,0.03661,0.03397,True
+"[2, 8]",Leisure Venues Closed,Public Indoor Gathering Person Limit - 1,0.00629,0.01718,False
+"[3, 9]",Retail Closed,Public Indoor Gathering Person Limit - 2,0.04874,0.02836,True
+"[4, 14]",Curfew,Private Indoor Gathering Person Limit - 2,0.25368,0.02345,True
+"[5, 15]",Primary Schools Closed,Private Indoor Gathering Person Limit - 10,0.10618,0.0133,True
+"[6, 12]",Secondary Schools Closed,Extra Public Indoor Household Limit,-0.26315,0.0247,True
+"[7, 13]",Universities Away,Private Indoor Gathering Person Limit - 1,-0.35758,0.02059,True
+"[0, 11]",Night Clubs Closed,Public Indoor Gathering Person Limit - 30,0.14256,0.02265,True
+"[1, 10]",Gastronomy Closed,Public Indoor Gathering Person Limit - 10,0.22826,0.01251,True
+"[2, 9]",Leisure Venues Closed,Public Indoor Gathering Person Limit - 2,0.05884,0.02212,True
+"[3, 8]",Retail Closed,Public Indoor Gathering Person Limit - 1,-0.00073,0.01862,False
+"[4, 15]",Curfew,Private Indoor Gathering Person Limit - 10,0.15026,0.02619,True
+"[5, 14]",Primary Schools Closed,Private Indoor Gathering Person Limit - 2,-0.49826,0.06309,True
+"[6, 13]",Secondary Schools Closed,Private Indoor Gathering Person Limit - 1,0.27646,0.02989,True
+"[7, 12]",Universities Away,Extra Public Indoor Household Limit,-0.20641,0.016,True
+"[0, 12]",Night Clubs Closed,Extra Public Indoor Household Limit,0.04486,0.04191,True
+"[1, 13]",Gastronomy Closed,Private Indoor Gathering Person Limit - 1,0.12645,0.01439,True
+"[2, 14]",Leisure Venues Closed,Private Indoor Gathering Person Limit - 2,0.04368,0.02286,True
+"[3, 15]",Retail Closed,Private Indoor Gathering Person Limit - 10,0.04517,0.03662,True
+"[4, 8]",Curfew,Public Indoor Gathering Person Limit - 1,0.18527,0.02222,True
+"[5, 9]",Primary Schools Closed,Public Indoor Gathering Person Limit - 2,-0.12629,0.02551,True
+"[6, 10]",Secondary Schools Closed,Public Indoor Gathering Person Limit - 10,-0.01048,0.02085,False
+"[7, 11]",Universities Away,Public Indoor Gathering Person Limit - 30,-0.21695,0.01003,True
+"[0, 13]",Night Clubs Closed,Private Indoor Gathering Person Limit - 1,0.03602,0.03115,True
+"[1, 12]",Gastronomy Closed,Extra Public Indoor Household Limit,0.0617,0.01482,True
+"[2, 15]",Leisure Venues Closed,Private Indoor Gathering Person Limit - 10,0.02617,0.02235,True
+"[3, 14]",Retail Closed,Private Indoor Gathering Person Limit - 2,0.23533,0.01823,True
+"[4, 9]",Curfew,Public Indoor Gathering Person Limit - 2,0.20026,0.02178,True
+"[5, 8]",Primary Schools Closed,Public Indoor Gathering Person Limit - 1,-0.20805,0.02945,True
+"[6, 11]",Secondary Schools Closed,Public Indoor Gathering Person Limit - 30,0.09394,0.01294,True
+"[7, 10]",Universities Away,Public Indoor Gathering Person Limit - 10,-0.34286,0.01279,True
+"[0, 14]",Night Clubs Closed,Private Indoor Gathering Person Limit - 2,0.02308,0.02609,False
+"[1, 15]",Gastronomy Closed,Private Indoor Gathering Person Limit - 10,0.1928,0.02599,True
+"[2, 12]",Leisure Venues Closed,Extra Public Indoor Household Limit,0.02693,0.02173,True
+"[3, 13]",Retail Closed,Private Indoor Gathering Person Limit - 1,0.29316,0.0155,True
+"[4, 10]",Curfew,Public Indoor Gathering Person Limit - 10,0.1754,0.04236,True
+"[5, 11]",Primary Schools Closed,Public Indoor Gathering Person Limit - 30,0.03184,0.01211,True
+"[6, 8]",Secondary Schools Closed,Public Indoor Gathering Person Limit - 1,-0.08836,0.02105,True
+"[7, 9]",Universities Away,Public Indoor Gathering Person Limit - 2,-0.1712,0.01321,True
+"[0, 15]",Night Clubs Closed,Private Indoor Gathering Person Limit - 10,0.0553,0.05948,False
+"[1, 14]",Gastronomy Closed,Private Indoor Gathering Person Limit - 2,0.14371,0.01481,True
+"[2, 13]",Leisure Venues Closed,Private Indoor Gathering Person Limit - 1,-0.02216,0.02225,False
+"[3, 12]",Retail Closed,Extra Public Indoor Household Limit,0.10669,0.0234,True
+"[4, 11]",Curfew,Public Indoor Gathering Person Limit - 30,0.17068,0.03269,True
+"[5, 10]",Primary Schools Closed,Public Indoor Gathering Person Limit - 10,-0.16963,0.02205,True
+"[6, 9]",Secondary Schools Closed,Public Indoor Gathering Person Limit - 2,-0.03039,0.02269,True
+"[7, 8]",Universities Away,Public Indoor Gathering Person Limit - 1,-0.26046,0.01829,True
+"[0, 16]",Night Clubs Closed,Private Indoor Gathering Person Limit - 30,-0.29485,0.0825,True
+"[1, 17]",Gastronomy Closed,Extra Private Indoor Household Limit,0.08279,0.01394,True
+"[2, 18]",Leisure Venues Closed,Mandatory Mask Wearing >= 3,0.13816,0.01841,True
+"[11, 6]",Public Indoor Gathering Person Limit - 30,Secondary Schools Closed,0.06257,0.01332,True
+"[7, 12]",Universities Away,Extra Public Indoor Household Limit,-0.15523,0.01325,True
+"[9, 13]",Public Indoor Gathering Person Limit - 2,Private Indoor Gathering Person Limit - 1,0.42917,0.0167,True
+"[5, 4]",Primary Schools Closed,Curfew,-0.14545,0.03072,True
+"[3, 15]",Retail Closed,Private Indoor Gathering Person Limit - 10,0.06614,0.0408,True
+"[0, 17]",Night Clubs Closed,Extra Private Indoor Household Limit,-0.01982,0.02831,False
+"[1, 16]",Gastronomy Closed,Private Indoor Gathering Person Limit - 30,0.14223,0.02712,True
+"[3, 18]",Retail Closed,Mandatory Mask Wearing >= 3,-0.1013,0.02876,True
+"[13, 7]",Private Indoor Gathering Person Limit - 1,Universities Away,-0.27966,0.01639,True
+"[9, 14]",Public Indoor Gathering Person Limit - 2,Private Indoor Gathering Person Limit - 2,0.27793,0.02183,True
+"[11, 12]",Public Indoor Gathering Person Limit - 30,Extra Public Indoor Household Limit,-0.00345,0.02241,False
+"[15, 8]",Private Indoor Gathering Person Limit - 10,Public Indoor Gathering Person Limit - 1,-0.21446,0.13683,True
+"[10, 6]",Public Indoor Gathering Person Limit - 10,Secondary Schools Closed,-0.03625,0.01756,True
+"[0, 18]",Night Clubs Closed,Mandatory Mask Wearing >= 3,0.00444,0.01197,False
+"[2, 16]",Leisure Venues Closed,Private Indoor Gathering Person Limit - 30,0.21032,0.02179,True
+"[3, 17]",Retail Closed,Extra Private Indoor Household Limit,0.19336,0.01695,True
+"[10, 13]",Public Indoor Gathering Person Limit - 10,Private Indoor Gathering Person Limit - 1,0.4808,0.02084,True
+"[5, 15]",Primary Schools Closed,Private Indoor Gathering Person Limit - 10,0.11489,0.01331,True
+"[8, 6]",Public Indoor Gathering Person Limit - 1,Secondary Schools Closed,0.00531,0.01758,False
+"[14, 7]",Private Indoor Gathering Person Limit - 2,Universities Away,-0.20845,0.01625,True
+"[1, 9]",Gastronomy Closed,Public Indoor Gathering Person Limit - 2,0.00457,0.01146,False
+"[1, 18]",Gastronomy Closed,Mandatory Mask Wearing >= 3,-0.17618,0.04126,True
+"[2, 17]",Leisure Venues Closed,Extra Private Indoor Household Limit,0.0484,0.02801,True
+"[3, 16]",Retail Closed,Private Indoor Gathering Person Limit - 30,0.05581,0.0401,True
+"[14, 6]",Private Indoor Gathering Person Limit - 2,Secondary Schools Closed,0.08158,0.03129,True
+"[8, 0]",Public Indoor Gathering Person Limit - 1,Night Clubs Closed,-0.13422,0.09082,True
+"[13, 11]",Private Indoor Gathering Person Limit - 1,Public Indoor Gathering Person Limit - 30,0.08587,0.06636,True
+"[12, 4]",Extra Public Indoor Household Limit,Curfew,0.20786,0.03663,True
+"[9, 15]",Public Indoor Gathering Person Limit - 2,Private Indoor Gathering Person Limit - 10,0.09772,0.06257,True
+"[4, 16]",Curfew,Private Indoor Gathering Person Limit - 30,0.17667,0.02211,True
+"[5, 17]",Primary Schools Closed,Extra Private Indoor Household Limit,-0.00993,0.01383,False
+"[6, 18]",Secondary Schools Closed,Mandatory Mask Wearing >= 3,0.04043,0.00964,True
+"[9, 12]",Public Indoor Gathering Person Limit - 2,Extra Public Indoor Household Limit,0.04724,0.03942,True
+"[10, 13]",Public Indoor Gathering Person Limit - 10,Private Indoor Gathering Person Limit - 1,0.5159,0.02105,True
+"[8, 11]",Public Indoor Gathering Person Limit - 1,Public Indoor Gathering Person Limit - 30,-0.25587,0.14613,True
+"[3, 0]",Retail Closed,Night Clubs Closed,0.0835,0.05697,True
+"[2, 7]",Leisure Venues Closed,Universities Away,-0.14764,0.01218,True
+"[4, 17]",Curfew,Extra Private Indoor Household Limit,0.26724,0.02262,True
+"[5, 16]",Primary Schools Closed,Private Indoor Gathering Person Limit - 30,0.02502,0.02574,False
+"[7, 18]",Universities Away,Mandatory Mask Wearing >= 3,0.02725,0.00794,True
+"[11, 6]",Public Indoor Gathering Person Limit - 30,Secondary Schools Closed,-0.05023,0.02723,True
+"[2, 12]",Leisure Venues Closed,Extra Public Indoor Household Limit,0.1024,0.02019,True
+"[13, 0]",Private Indoor Gathering Person Limit - 1,Night Clubs Closed,0.06889,0.05253,True
+"[9, 15]",Public Indoor Gathering Person Limit - 2,Private Indoor Gathering Person Limit - 10,0.00404,0.02332,False
+"[10, 3]",Public Indoor Gathering Person Limit - 10,Retail Closed,0.06413,0.03704,True
+"[4, 18]",Curfew,Mandatory Mask Wearing >= 3,0.04515,0.03927,True
+"[6, 16]",Secondary Schools Closed,Private Indoor Gathering Person Limit - 30,-0.02894,0.01667,True
+"[7, 17]",Universities Away,Extra Private Indoor Household Limit,-0.2971,0.01495,True
+"[5, 0]",Primary Schools Closed,Night Clubs Closed,0.1571,0.01414,True
+"[2, 14]",Leisure Venues Closed,Private Indoor Gathering Person Limit - 2,0.01875,0.01867,True
+"[1, 10]",Gastronomy Closed,Public Indoor Gathering Person Limit - 10,0.23245,0.01113,True
+"[11, 3]",Public Indoor Gathering Person Limit - 30,Retail Closed,0.01132,0.02451,False
+"[9, 8]",Public Indoor Gathering Person Limit - 2,Public Indoor Gathering Person Limit - 1,-0.10393,0.08059,True
+"[5, 18]",Primary Schools Closed,Mandatory Mask Wearing >= 3,0.0352,0.00983,True
+"[6, 17]",Secondary Schools Closed,Extra Private Indoor Household Limit,0.05426,0.018,True
+"[7, 16]",Universities Away,Private Indoor Gathering Person Limit - 30,-0.19812,0.00921,True
+"[0, 12]",Night Clubs Closed,Extra Public Indoor Household Limit,-0.04743,0.04109,True
+"[15, 13]",Private Indoor Gathering Person Limit - 10,Private Indoor Gathering Person Limit - 1,0.16175,0.09658,True
+"[14, 9]",Private Indoor Gathering Person Limit - 2,Public Indoor Gathering Person Limit - 2,0.30306,0.01817,True
+"[1, 2]",Gastronomy Closed,Leisure Venues Closed,0.17092,0.01507,True
+"[10, 4]",Public Indoor Gathering Person Limit - 10,Curfew,0.15576,0.02962,True
+"[8, 16]",Public Indoor Gathering Person Limit - 1,Private Indoor Gathering Person Limit - 30,-0.26336,0.18773,True
+"[9, 17]",Public Indoor Gathering Person Limit - 2,Extra Private Indoor Household Limit,0.39172,0.0182,True
+"[10, 18]",Public Indoor Gathering Person Limit - 10,Mandatory Mask Wearing >= 3,0.02539,0.01706,True
+"[11, 15]",Public Indoor Gathering Person Limit - 30,Private Indoor Gathering Person Limit - 10,0.29232,0.01633,True
+"[13, 14]",Private Indoor Gathering Person Limit - 1,Private Indoor Gathering Person Limit - 2,0.18645,0.109,True
+"[7, 4]",Universities Away,Curfew,-0.04532,0.04882,False
+"[2, 12]",Leisure Venues Closed,Extra Public Indoor Household Limit,0.14559,0.02036,True
+"[6, 5]",Secondary Schools Closed,Primary Schools Closed,0.02927,0.03046,False
+"[8, 17]",Public Indoor Gathering Person Limit - 1,Extra Private Indoor Household Limit,0.22479,0.02392,True
+"[9, 16]",Public Indoor Gathering Person Limit - 2,Private Indoor Gathering Person Limit - 30,0.12605,0.07925,True
+"[11, 18]",Public Indoor Gathering Person Limit - 30,Mandatory Mask Wearing >= 3,0.1679,0.02075,True
+"[3, 14]",Retail Closed,Private Indoor Gathering Person Limit - 2,0.2047,0.02196,True
+"[0, 4]",Night Clubs Closed,Curfew,0.03592,0.03468,True
+"[2, 1]",Leisure Venues Closed,Gastronomy Closed,0.14927,0.01429,True
+"[13, 6]",Private Indoor Gathering Person Limit - 1,Secondary Schools Closed,-0.00887,0.01488,False
+"[7, 12]",Universities Away,Extra Public Indoor Household Limit,-0.15713,0.01356,True
+"[8, 18]",Public Indoor Gathering Person Limit - 1,Mandatory Mask Wearing >= 3,-0.29213,0.0231,True
+"[10, 16]",Public Indoor Gathering Person Limit - 10,Private Indoor Gathering Person Limit - 30,0.2187,0.01659,True
+"[11, 17]",Public Indoor Gathering Person Limit - 30,Extra Private Indoor Household Limit,-0.02448,0.02792,False
+"[13, 15]",Private Indoor Gathering Person Limit - 1,Private Indoor Gathering Person Limit - 10,0.07407,0.05277,True
+"[5, 6]",Primary Schools Closed,Secondary Schools Closed,0.03993,0.04011,False
+"[2, 9]",Leisure Venues Closed,Public Indoor Gathering Person Limit - 2,0.24945,0.01769,True
+"[1, 7]",Gastronomy Closed,Universities Away,-0.06595,0.00787,True
+"[4, 0]",Curfew,Night Clubs Closed,0.12139,0.06457,True
+"[9, 18]",Public Indoor Gathering Person Limit - 2,Mandatory Mask Wearing >= 3,0.06648,0.01895,True
+"[10, 17]",Public Indoor Gathering Person Limit - 10,Extra Private Indoor Household Limit,0.46697,0.01997,True
+"[11, 16]",Public Indoor Gathering Person Limit - 30,Private Indoor Gathering Person Limit - 30,0.24617,0.01738,True
+"[7, 8]",Universities Away,Public Indoor Gathering Person Limit - 1,-0.18435,0.0157,True
+"[4, 5]",Curfew,Primary Schools Closed,-0.07244,0.02469,True
+"[0, 12]",Night Clubs Closed,Extra Public Indoor Household Limit,-0.01306,0.0319,False
+"[14, 13]",Private Indoor Gathering Person Limit - 2,Private Indoor Gathering Person Limit - 1,0.08869,0.07091,True
+"[6, 3]",Secondary Schools Closed,Retail Closed,-0.19292,0.02471,True
+"[12, 16]",Extra Public Indoor Household Limit,Private Indoor Gathering Person Limit - 30,0.2286,0.031,True
+"[13, 17]",Private Indoor Gathering Person Limit - 1,Extra Private Indoor Household Limit,-0.06525,0.05295,True
+"[14, 18]",Private Indoor Gathering Person Limit - 2,Mandatory Mask Wearing >= 3,0.31099,0.01522,True
+"[15, 7]",Private Indoor Gathering Person Limit - 10,Universities Away,-0.14665,0.00997,True
+"[1, 11]",Gastronomy Closed,Public Indoor Gathering Person Limit - 30,0.03389,0.02794,True
+"[5, 2]",Primary Schools Closed,Leisure Venues Closed,-0.46747,0.02582,True
+"[8, 3]",Public Indoor Gathering Person Limit - 1,Retail Closed,0.16667,0.0168,True
+"[9, 10]",Public Indoor Gathering Person Limit - 2,Public Indoor Gathering Person Limit - 10,-0.005,0.02453,False
+"[12, 17]",Extra Public Indoor Household Limit,Extra Private Indoor Household Limit,0.25944,0.01986,True
+"[13, 16]",Private Indoor Gathering Person Limit - 1,Private Indoor Gathering Person Limit - 30,0.08811,0.0613,True
+"[15, 18]",Private Indoor Gathering Person Limit - 10,Mandatory Mask Wearing >= 3,0.08679,0.0257,True
+"[3, 6]",Retail Closed,Secondary Schools Closed,-0.14819,0.02646,True
+"[4, 8]",Curfew,Public Indoor Gathering Person Limit - 1,0.19695,0.0174,True
+"[2, 0]",Leisure Venues Closed,Night Clubs Closed,0.0076,0.01816,False
+"[11, 1]",Public Indoor Gathering Person Limit - 30,Gastronomy Closed,0.04875,0.03952,True
+"[7, 10]",Universities Away,Public Indoor Gathering Person Limit - 10,-0.29749,0.01451,True
+"[12, 18]",Extra Public Indoor Household Limit,Mandatory Mask Wearing >= 3,0.04318,0.01883,True
+"[14, 16]",Private Indoor Gathering Person Limit - 2,Private Indoor Gathering Person Limit - 30,-0.04863,0.04092,True
+"[15, 17]",Private Indoor Gathering Person Limit - 10,Extra Private Indoor Household Limit,-0.03848,0.03673,True
+"[3, 7]",Retail Closed,Universities Away,-0.18909,0.01642,True
+"[1, 9]",Gastronomy Closed,Public Indoor Gathering Person Limit - 2,0.05288,0.0156,True
+"[6, 4]",Secondary Schools Closed,Curfew,0.24707,0.02085,True
+"[10, 0]",Public Indoor Gathering Person Limit - 10,Night Clubs Closed,0.00825,0.019,False
+"[5, 8]",Primary Schools Closed,Public Indoor Gathering Person Limit - 1,-0.33178,0.03102,True
+"[13, 18]",Private Indoor Gathering Person Limit - 1,Mandatory Mask Wearing >= 3,0.10195,0.01817,True
+"[14, 17]",Private Indoor Gathering Person Limit - 2,Extra Private Indoor Household Limit,-0.0316,0.03533,False
+"[15, 16]",Private Indoor Gathering Person Limit - 10,Private Indoor Gathering Person Limit - 30,0.07965,0.05321,True
+"[4, 2]",Curfew,Leisure Venues Closed,0.15921,0.04147,True
+"[9, 12]",Public Indoor Gathering Person Limit - 2,Extra Public Indoor Household Limit,0.09174,0.0638,True
+"[7, 11]",Universities Away,Public Indoor Gathering Person Limit - 30,-0.24464,0.01129,True
+"[5, 1]",Primary Schools Closed,Gastronomy Closed,-0.02977,0.01402,True
+"[10, 3]",Public Indoor Gathering Person Limit - 10,Retail Closed,0.05896,0.04209,True
+"[16, 17]",Private Indoor Gathering Person Limit - 30,Extra Private Indoor Household Limit,0.04047,0.038,True
+"[1, 11]",Gastronomy Closed,Public Indoor Gathering Person Limit - 30,0.03247,0.03242,True
+"[4, 7]",Curfew,Universities Away,-0.05198,0.05203,False
+"[5, 15]",Primary Schools Closed,Private Indoor Gathering Person Limit - 10,-0.00224,0.01177,False
+"[0, 2]",Night Clubs Closed,Leisure Venues Closed,0.0682,0.0506,True
+"[12, 10]",Extra Public Indoor Household Limit,Public Indoor Gathering Person Limit - 10,-0.085,0.05731,True
+"[3, 8]",Retail Closed,Public Indoor Gathering Person Limit - 1,0.13174,0.01889,True
+"[13, 6]",Private Indoor Gathering Person Limit - 1,Secondary Schools Closed,0.02793,0.01771,True
+"[16, 18]",Private Indoor Gathering Person Limit - 30,Mandatory Mask Wearing >= 3,0.1303,0.02467,True
+"[15, 14]",Private Indoor Gathering Person Limit - 10,Private Indoor Gathering Person Limit - 2,-0.13891,0.089,True
+"[2, 8]",Leisure Venues Closed,Public Indoor Gathering Person Limit - 1,0.10545,0.02218,True
+"[13, 12]",Private Indoor Gathering Person Limit - 1,Extra Public Indoor Household Limit,0.40346,0.01579,True
+"[5, 10]",Primary Schools Closed,Public Indoor Gathering Person Limit - 10,0.00954,0.01768,False
+"[17, 0]",Extra Private Indoor Household Limit,Night Clubs Closed,0.02936,0.03064,False
+"[6, 3]",Secondary Schools Closed,Retail Closed,-0.14003,0.03165,True
+"[11, 9]",Public Indoor Gathering Person Limit - 30,Public Indoor Gathering Person Limit - 2,0.07861,0.05581,True
+"[17, 18]",Extra Private Indoor Household Limit,Mandatory Mask Wearing >= 3,0.2876,0.01967,True
+"[14, 3]",Private Indoor Gathering Person Limit - 2,Retail Closed,0.21449,0.01748,True
+"[2, 6]",Leisure Venues Closed,Secondary Schools Closed,-0.43162,0.02414,True
+"[11, 0]",Public Indoor Gathering Person Limit - 30,Night Clubs Closed,0.21314,0.02042,True
+"[15, 1]",Private Indoor Gathering Person Limit - 10,Gastronomy Closed,0.06032,0.02519,True
+"[13, 5]",Private Indoor Gathering Person Limit - 1,Primary Schools Closed,-0.05738,0.02436,True
+"[10, 16]",Public Indoor Gathering Person Limit - 10,Private Indoor Gathering Person Limit - 30,0.22347,0.01682,True
+"[9, 12]",Public Indoor Gathering Person Limit - 2,Extra Public Indoor Household Limit,0.0408,0.03333,True

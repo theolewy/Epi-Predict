@@ -1,0 +1,16 @@
+INFO [2022-07-28 10:57:24] Reporting estimates using data up to: 2021-01-02
+INFO [2022-07-28 10:57:24] Saving estimates to : new_results
+INFO [2022-07-28 10:57:24] Producing estimates for: Zaanstreek-Waterland, Salzburg
+INFO [2022-07-28 10:57:24] Regions excluded: none
+INFO [2022-07-28 12:03:21] Completed estimates for: Zaanstreek-Waterland
+INFO [2022-07-28 12:43:45] Completed estimates for: Salzburg
+INFO [2022-07-28 12:43:45] Completed regional estimates
+INFO [2022-07-28 12:43:45] Regions with estimates: 2
+INFO [2022-07-28 12:43:45] Regions with runtime errors: 0
+INFO [2022-07-28 12:43:45] Producing summary
+INFO [2022-07-28 12:43:46] No summary directory specified so returning summary output
+INFO [2022-07-28 12:43:46] Errors caught whilst generating summary statistics: 
+INFO [2022-07-28 12:43:46] Error: Incompatible classes: <IDate> + <Period>
+
+
+INFO [2022-07-28 12:43:46] Saving timings information to : new_results

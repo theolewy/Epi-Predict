@@ -96,6 +96,7 @@ print(made_samples)
 
 possible_settings = []
 
+# gets all settings that we have not already saved to samples/nn/cross_validate
 for input_death in [True, False]:
     for n_days_nn_input in [14,21,28]:
         for D_layers in [[10,10,5,5], [10,10,5], [20,10]]:
@@ -119,6 +120,7 @@ for input_death in [True, False]:
             else:
                 possible_settings.append(model_settings_nn)
 
+# randomise the order of the settings we want to test
 random.shuffle(possible_settings)
 
 for model_settings_nn in possible_settings:

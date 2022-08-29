@@ -1,0 +1,4 @@
+,hyperparameters,case_nmse,death_nmse,case_ncrps,death_ncrps
+2,"{'n_days_nn_input': 14, 'infer_cfr': False, 'input_death': False, 'D_layers': [10, 10, 5], 'R_period': 1, 'preprocessed_data': 'moving_average', 'num_percentiles': None}",93.06659,36.63021,21.295504,20.04763
+3,"{'n_days_nn_input': 14, 'infer_cfr': False, 'input_death': False, 'D_layers': [10, 10, 5, 5], 'R_period': 1, 'preprocessed_data': 'None', 'num_percentiles': None}",86.669495,28.80093,20.23843,43.52076
+6,"{'n_days_nn_input': 14, 'infer_cfr': False, 'input_death': True, 'D_layers': [20, 10], 'R_period': 1, 'preprocessed_data': 'summary', 'num_percentiles': 7}",76.17937,32.005943,20.693613,16.307032
